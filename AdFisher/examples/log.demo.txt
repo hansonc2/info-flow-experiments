@@ -1,0 +1,21 @@
+2021-03-02 10:24:27.023274||meta||agents||2
+2021-03-02 10:24:27.023290||meta||treatnames||control@|experimental
+2021-03-02 10:24:27.024268||meta||block_id start||0
+2021-03-02 10:24:27.024277||meta||assignment||0@|1
+2021-03-02 10:24:34.165748||event||progress-marker||training-start||0||0
+2021-03-02 10:24:34.166297||event||progress-marker||training-end||0||0
+2021-03-02 10:24:34.174871||event||progress-marker||training-start||1||1
+2021-03-02 10:24:40.848789||treatment||visit website||http://facebook.com||1||1
+2021-03-02 10:24:47.186959||treatment||visit website||http://google.com||1||1
+2021-03-02 10:24:54.728673||treatment||visit website||http://twitter.com||1||1
+2021-03-02 10:25:02.825433||treatment||visit website||http://youtube.com||1||1
+2021-03-02 10:25:02.825856||event||progress-marker||training-end||1||1
+2021-03-02 10:25:04.172011||event||progress-marker||measurement-start||0||0
+2021-03-02 10:25:07.827400||event||progress-marker||measurement-start||1||1
+2021-03-02 10:25:10.730854||measurement||loadtime||0:00:01.557148||0||0
+2021-03-02 10:25:14.118963||measurement||loadtime||0:00:01.290210||1||1
+2021-03-02 10:25:15.879236||measurement||loadtime||0:00:00.147228||0||0
+2021-03-02 10:25:15.879591||event||progress-marker||measurement-end||0||0
+2021-03-02 10:25:19.269411||measurement||loadtime||0:00:00.148744||1||1
+2021-03-02 10:25:19.269797||event||progress-marker||measurement-end||1||1
+2021-03-02 10:25:19.803237||meta||block_id end||0
