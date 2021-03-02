@@ -23,7 +23,7 @@ class MLStripper(HTMLParser):
 def strip_tags(html):
     s = MLStripper()
     s.feed(html)
-    return s.get_data()  
+    return s.get_data()
 
 class GoogleAdsUnit(google_search.GoogleSearchUnit):
 
@@ -64,12 +64,12 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         driver.execute_script('window.stop()')
         tim = str(datetime.now())
         frame = driver.find_element_by_xpath(".//iframe[@id='ad-left-timeswidget']")
-    
+
         def scroll_element_into_view(driver, element):
             """Scroll element into view"""
             y = element.location['y']
             driver.execute_script('window.scrollTo(0, {0})'.format(y))
-    
+
         scroll_element_into_view(driver, frame)
         driver.switch_to.frame(frame)
         ads = driver.find_elements_by_css_selector("html body table tbody tr td table")
@@ -81,7 +81,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
             b = bb[0].get_attribute('innerHTML')
             ad = strip_tags(tim+"@|"+t+"@|"+l+"@|"+b).encode("utf8")
             self.log('measurement', 'ad', ad)
-        driver.switch_to.default_content()  
+        driver.switch_to.default_content()
 
     def save_ads_bbc(self, file):
         driver = self.driver
@@ -119,9 +119,30 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
 
 
 
+    def opt_in(self):
+        driver = self.driver
+        id = self.unit_id
+        driver.set_page_load_timeout(60)
+        driver.get()
 
 
+    def login(self, googleID, pswd):
+        try:
+            driver = self.driver
+            id = self.unit_id
+            sys.stdout.write(".")
+            sys.stdout.flush()
+            driver.set_page_load_timeout(60)
+            driver.get("https://google.com/")
+            sign_in_path="/html/body/div/div/div[4]/div/div/div/div/div[3]/div[3]/h4/a"
+            elem1=browser.find_elements_by_xpath(sign_in_path)
+            elem1[0].click()
 
-
+            in_with_google="/html/body/div[2]/div/div/div/div[2]/div/div/div/div/div[3]/div[1]/a"
+            elem2=browser.find_elements_by_xpath(in_with_google)
+            elem2[0].click()
+        except Exception as e:
+            print('$$$' + str(e) + '$$$')
+            print('Login Failed')
 
 

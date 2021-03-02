@@ -29,13 +29,13 @@ class MLStripper(HTMLParser):
 def strip_tags(html):
     s = MLStripper()
     s.feed(html)
-    return s.get_data()  
+    return s.get_data()
 
 class GoogleSearchUnit(browser_unit.BrowserUnit):
 
     def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
         browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
-    
+
     def search_and_collect(self, query_file, searchdelay=20, pages=2):
         fo = open(query_file, "r")
         for line in fo:     # For all queries in the list, obtain search results on Google
@@ -69,8 +69,8 @@ class GoogleSearchUnit(browser_unit.BrowserUnit):
                 page += 1
             time.sleep(searchdelay)
         fo.close()
-    	
-                    
+
+
     def search_and_click(self, query_file, clickdelay=20, clickcount=5):
         fo = open(query_file, "r")
         for line in fo:     # For all queries in the list, obtain search results on Google
