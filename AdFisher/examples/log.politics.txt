@@ -1,62 +1,47 @@
-2021-03-02 12:46:34.161693||meta||agents||4
-2021-03-02 12:46:34.161711||meta||treatnames||control (libearl)@|experimental(conservative)
-2021-03-02 12:46:34.162082||meta||block_id start||0
-2021-03-02 12:46:34.162088||meta||assignment||3@|0@|2@|1
-2021-03-02 12:46:34.201006||meta||block_id end||0
-2021-03-02 12:46:34.201912||meta||block_id start||1
-2021-03-02 12:46:34.201923||meta||assignment||2@|1@|0@|3
-2021-03-02 12:46:34.247927||meta||block_id end||1
-2021-03-02 12:46:34.248497||meta||block_id start||2
-2021-03-02 12:46:34.248505||meta||assignment||0@|2@|1@|3
-2021-03-02 12:46:34.288798||meta||block_id end||2
-2021-03-02 12:46:34.289450||meta||block_id start||3
-2021-03-02 12:46:34.289459||meta||assignment||1@|0@|2@|3
-2021-03-02 12:46:34.326109||meta||block_id end||3
-2021-03-02 12:46:34.326755||meta||block_id start||4
-2021-03-02 12:46:34.326766||meta||assignment||2@|3@|1@|0
-2021-03-02 12:46:34.368778||meta||block_id end||4
-2021-03-02 12:46:34.369826||meta||block_id start||5
-2021-03-02 12:46:34.369837||meta||assignment||3@|2@|1@|0
-2021-03-02 12:46:34.409070||meta||block_id end||5
-2021-03-02 12:46:34.409738||meta||block_id start||6
-2021-03-02 12:46:34.409750||meta||assignment||3@|0@|1@|2
-2021-03-02 12:46:34.446977||meta||block_id end||6
-2021-03-02 12:46:34.448212||meta||block_id start||7
-2021-03-02 12:46:34.448225||meta||assignment||0@|3@|1@|2
-2021-03-02 12:46:34.486241||meta||block_id end||7
-2021-03-02 12:46:34.486787||meta||block_id start||8
-2021-03-02 12:46:34.486796||meta||assignment||0@|2@|1@|3
-2021-03-02 12:46:34.534852||meta||block_id end||8
-2021-03-02 12:46:34.535640||meta||block_id start||9
-2021-03-02 12:46:34.535649||meta||assignment||3@|0@|1@|2
-2021-03-02 12:46:34.596307||meta||block_id end||9
-2021-03-02 12:46:34.597603||meta||block_id start||10
-2021-03-02 12:46:34.597619||meta||assignment||2@|1@|0@|3
-2021-03-02 12:46:34.645338||meta||block_id end||10
-2021-03-02 12:46:34.646396||meta||block_id start||11
-2021-03-02 12:46:34.646409||meta||assignment||1@|3@|2@|0
-2021-03-02 12:46:34.695709||meta||block_id end||11
-2021-03-02 12:46:34.696331||meta||block_id start||12
-2021-03-02 12:46:34.696342||meta||assignment||1@|0@|2@|3
-2021-03-02 12:46:34.746752||meta||block_id end||12
-2021-03-02 12:46:34.747942||meta||block_id start||13
-2021-03-02 12:46:34.747955||meta||assignment||2@|1@|3@|0
-2021-03-02 12:46:34.800711||meta||block_id end||13
-2021-03-02 12:46:34.801620||meta||block_id start||14
-2021-03-02 12:46:34.801637||meta||assignment||1@|2@|3@|0
-2021-03-02 12:46:34.868083||meta||block_id end||14
-2021-03-02 12:46:34.869186||meta||block_id start||15
-2021-03-02 12:46:34.869203||meta||assignment||3@|2@|0@|1
-2021-03-02 12:46:34.969197||meta||block_id end||15
-2021-03-02 12:46:34.970119||meta||block_id start||16
-2021-03-02 12:46:34.970152||meta||assignment||1@|0@|2@|3
-2021-03-02 12:46:35.038745||meta||block_id end||16
-2021-03-02 12:46:35.040406||meta||block_id start||17
-2021-03-02 12:46:35.040430||meta||assignment||3@|2@|1@|0
-2021-03-02 12:46:35.112764||meta||block_id end||17
-2021-03-02 12:46:35.113782||meta||block_id start||18
-2021-03-02 12:46:35.113795||meta||assignment||0@|3@|2@|1
-2021-03-02 12:46:35.175461||meta||block_id end||18
-2021-03-02 12:46:35.176521||meta||block_id start||19
-2021-03-02 12:46:35.176539||meta||assignment||3@|0@|2@|1
-2021-03-02 12:46:35.245303||meta||block_id end||19
+2021-03-03 15:38:52.641331||meta||agents||4
+2021-03-03 15:38:52.641373||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-03-03 15:38:52.641806||meta||block_id start||0
+2021-03-03 15:38:52.641812||meta||assignment||1@|3@|0@|2
+2021-03-03 15:38:54.841893||event||progress-marker||training-start||1||0
+2021-03-03 15:38:55.046269||event||progress-marker||training-start||0||1
+2021-03-03 15:38:55.078111||event||progress-marker||training-start||3||0
+2021-03-03 15:38:55.109445||event||progress-marker||training-start||2||1
+2021-03-03 15:38:55.694588||error||website timeout||http://https://www.foxnews.com/||2||1
+2021-03-03 15:38:55.980364||error||website timeout||http://https://www.wsj.com/||2||1
+2021-03-03 15:38:56.281303||error||website timeout||http://https://www.infowars.com/||2||1
+2021-03-03 15:38:56.549584||error||website timeout||http://https://www.breitbart.com/||2||1
+2021-03-03 15:38:56.688934||error||website timeout||http://https://www.foxnews.com/||0||1
+2021-03-03 15:38:56.799486||error||website timeout||http://https://www.rushlimbaugh.com/||2||1
+2021-03-03 15:38:57.071187||error||website timeout||http://https://www.weaselzippers.us/||2||1
+2021-03-03 15:38:57.319145||error||website timeout||http://https://www.whitehousedossier.com/||2||1
+2021-03-03 15:38:57.322648||error||website timeout||http://||2||1
+2021-03-03 15:38:57.323153||event||progress-marker||training-end||2||1
+2021-03-03 15:38:57.978359||error||website timeout||http://https://www.wsj.com/||0||1
+2021-03-03 15:38:58.230486||error||website timeout||http://https://www.infowars.com/||0||1
+2021-03-03 15:38:58.471863||error||website timeout||http://https://www.breitbart.com/||0||1
+2021-03-03 15:38:58.721866||error||website timeout||http://https://www.rushlimbaugh.com/||0||1
+2021-03-03 15:38:59.978618||error||website timeout||http://https://www.weaselzippers.us/||0||1
+2021-03-03 15:39:00.267813||error||website timeout||http://https://www.whitehousedossier.com/||0||1
+2021-03-03 15:39:00.270624||error||website timeout||http://||0||1
+2021-03-03 15:39:00.271042||event||progress-marker||training-end||0||1
+2021-03-03 15:39:15.649567||error||website timeout||http://https://www.cnn.com/||3||0
+2021-03-03 15:39:15.651694||error||website timeout||http://https://twitter.com/berniesanders?lang=en||3||0
+2021-03-03 15:39:15.653334||error||website timeout||http://https://www.nytimes.com/||3||0
+2021-03-03 15:39:15.654878||error||website timeout||http://https://www.reddit.com/r/neoliberal/||3||0
+2021-03-03 15:39:15.656578||error||website timeout||http://https://www.dailykos.com/||3||0
+2021-03-03 15:39:15.658160||error||website timeout||http://https://www.sandersinstitute.org/||3||0
+2021-03-03 15:39:15.659927||error||website timeout||http://https://www.factcheck.org/||3||0
+2021-03-03 15:39:15.661567||error||website timeout||http://https://www.peace.fm/||3||0
+2021-03-03 15:39:15.663086||error||website timeout||http://https://www.blueapron.com/||3||0
+2021-03-03 15:39:15.663516||event||progress-marker||training-end||3||0
+2021-03-03 15:39:40.900219||error||website timeout||http://https://www.cnn.com/||1||0
+2021-03-03 15:39:40.902002||error||website timeout||http://https://twitter.com/berniesanders?lang=en||1||0
+2021-03-03 15:39:40.903532||error||website timeout||http://https://www.nytimes.com/||1||0
+2021-03-03 15:39:40.905053||error||website timeout||http://https://www.reddit.com/r/neoliberal/||1||0
+2021-03-03 15:39:40.906624||error||website timeout||http://https://www.dailykos.com/||1||0
+2021-03-03 15:39:40.908118||error||website timeout||http://https://www.sandersinstitute.org/||1||0
+2021-03-03 15:39:40.909609||error||website timeout||http://https://www.factcheck.org/||1||0
+2021-03-03 15:39:40.911190||error||website timeout||http://https://www.peace.fm/||1||0
+2021-03-03 15:39:40.912936||error||website timeout||http://https://www.blueapron.com/||1||0
+2021-03-03 15:39:40.913466||event||progress-marker||training-end||1||0
+2021-03-03 15:39:42.330361||event||progress-marker||measurement-start||2||1

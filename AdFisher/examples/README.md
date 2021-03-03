@@ -39,18 +39,23 @@ You can create other classes (like GoogleAdsUnit) and create experimental units 
 ```python
 # Control Group treatment
 def control_treatment(unit):
+	unit.log_in('USERNAME', 'PASSWORD')
 	unit.opt_in()
 	unit.set_gender('f')
 	unit.visit_sites(site_file="jobs.txt")
 
 # Experimental Group treatment
 def exp_treatment(unit):
+	unit.log_in('USERNAME2', 'PASSWORD2')
 	unit.opt_in()
 	unit.set_gender('m')
 	unit.visit_sites(site_file="jobs.txt")
 ```
 
-The two functions *control_treatment()* and *exp_treatment()* specify what actions browsers receiving these treatments will perform. Taking the *control_treatment* as an example, it take a unit as an argument, then specifies that it first opt in to behavioral advertising on Google Ad Settings, then set gender to male, then visit all the websites listed in the site file. In this example, *opt_in*, *set_gender*, and *visit_sites* are methods in the GoogleAdsUnit class.
+The two functions *control_treatment()* and *exp_treatment()* specify what actions browsers receiving these treatments will perform. Taking the *control_treatment* as an example, it take a unit as an argument, then specifies that it first *log_in()* to an already existing gmail account, opt in to behavioral advertising on Google Ad Settings, then set gender to male, then visit all the websites listed in the site file. In this example, *log_in* *opt_in*, *set_gender*, and *visit_sites* are methods in the GoogleAdsUnit class.
+
+
+
 
 ### Collecting measurements
 

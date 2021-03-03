@@ -2668,3 +2668,1359 @@ Exiting due to channel error.
 Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
+1614724972558	geckodriver	INFO	Listening on 127.0.0.1:60355
+1614724972558	geckodriver	INFO	Listening on 127.0.0.1:60353
+1614724972558	geckodriver	INFO	Listening on 127.0.0.1:60352
+1614724972558	geckodriver	INFO	Listening on 127.0.0.1:60354
+1614724972586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileZS1AV0"
+1614724972586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilez5oOQE"
+1614724972586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileCM4VVE"
+1614724972586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile92CmHS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614724976561	Marionette	INFO	Listening on port 60390
+1614724976726	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614725217257	geckodriver	INFO	Listening on 127.0.0.1:58516
+1614725217259	geckodriver	INFO	Listening on 127.0.0.1:58517
+1614725217259	geckodriver	INFO	Listening on 127.0.0.1:58518
+1614725217260	geckodriver	INFO	Listening on 127.0.0.1:58519
+1614725221280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile8aHtYh"
+1614725221284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileeAZWO3"
+1614725221284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewIlSay"
+1614725221284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileP5uUnm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614725224121	Marionette	INFO	Listening on port 59055
+1614725224122	Marionette	INFO	Listening on port 59056
+1614725224124	Marionette	INFO	Listening on port 59048
+1614725224182	Marionette	INFO	Listening on port 59057
+1614725224190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725224193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725224200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725224409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725224457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224555	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224658	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224747	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725224806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3631 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3631 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3631 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1614725225801	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225896	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225896	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725225989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226061	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226096	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725226122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1614725383827	geckodriver	INFO	Listening on 127.0.0.1:63246
+1614725383827	geckodriver	INFO	Listening on 127.0.0.1:63247
+1614725383829	geckodriver	INFO	Listening on 127.0.0.1:63248
+1614725383832	geckodriver	INFO	Listening on 127.0.0.1:63249
+1614725386853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileXl0VS8"
+1614725386853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile072IRw"
+1614725386857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewy735H"
+1614725386857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileIXK4xY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614725389609	Marionette	INFO	Listening on port 63761
+1614725389610	Marionette	INFO	Listening on port 63750
+1614725389633	Marionette	INFO	Listening on port 63751
+1614725389668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725389669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725389671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725389713	Marionette	INFO	Listening on port 63762
+1614725389786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725389836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725389842	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725389923	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390041	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390149	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390187	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725390252	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391381	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391417	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391506	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391542	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725391574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614725392373	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392466	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392534	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392606	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725392635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614725408409	Marionette	INFO	Stopped listening on port 63751
+1614725408621	Marionette	INFO	Stopped listening on port 63750
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614725409619	Marionette	INFO	Stopped listening on port 63761
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614725410699	Marionette	INFO	Stopped listening on port 63762
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614725411199	geckodriver	INFO	Listening on 127.0.0.1:50788
+1614725411199	geckodriver	INFO	Listening on 127.0.0.1:50791
+1614725411199	geckodriver	INFO	Listening on 127.0.0.1:50790
+1614725411200	geckodriver	INFO	Listening on 127.0.0.1:50789
+1614725492174	geckodriver	INFO	Listening on 127.0.0.1:60935
+1614725492177	geckodriver	INFO	Listening on 127.0.0.1:60937
+1614725492177	geckodriver	INFO	Listening on 127.0.0.1:60936
+1614725492183	geckodriver	INFO	Listening on 127.0.0.1:60938
+1614725496202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilepbK05m"
+1614725496207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileglEONC"
+1614725496207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilepYxFMI"
+1614725496208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilevfXwjV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614725498907	Marionette	INFO	Listening on port 61473
+1614725498929	Marionette	INFO	Listening on port 61475
+1614725498936	Marionette	INFO	Listening on port 61469
+1614725498970	Marionette	INFO	Listening on port 61472
+1614725499349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725499352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725499352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725499353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725499532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499554	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499707	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499713	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499742	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725499784	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725500838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614725500912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725500959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501013	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501052	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501095	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725501320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Script error for "mybbc/notifications/NotificationsMain"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614725960199	geckodriver	INFO	Listening on 127.0.0.1:54856
+1614725960199	geckodriver	INFO	Listening on 127.0.0.1:54855
+1614725960199	geckodriver	INFO	Listening on 127.0.0.1:54854
+1614725960199	geckodriver	INFO	Listening on 127.0.0.1:54853
+1614725961218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileYVmAnu"
+1614725961218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofiletFekXZ"
+1614725961218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileynQvw7"
+1614725961218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewZQG5t"
+1614725964940	geckodriver	INFO	Listening on 127.0.0.1:55630
+1614725964940	geckodriver	INFO	Listening on 127.0.0.1:55632
+1614725964943	geckodriver	INFO	Listening on 127.0.0.1:55634
+1614725964946	geckodriver	INFO	Listening on 127.0.0.1:55637
+1614725966964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileddfDcG"
+1614725966964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile4yTeyM"
+1614725966965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileXSeHzy"
+1614725966966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile9D0aHA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+2021-03-02 17:59:28.782 org.mozilla.updater[39899:12282167] Unable to register as DirectoryServer.
+2021-03-02 17:59:28.783 org.mozilla.updater[39899:12282167] Is another copy running?
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614725970229	Marionette	INFO	Listening on port 54890
+1614725970247	Marionette	INFO	Listening on port 54891
+1614725971200	Marionette	INFO	Listening on port 55761
+1614725971225	Marionette	INFO	Listening on port 55760
+1614725971259	Marionette	INFO	Listening on port 55768
+1614725971274	Marionette	INFO	Listening on port 55762
+1614725971304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725971304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725971305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725971315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614725971584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614725971839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971847	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725971982	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725972092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725972092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725972194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725972194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725972822	Marionette	INFO	Listening on port 54889
+1614725973111	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973202	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973230	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973330	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973510	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973570	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973647	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614725973743	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1614725991348	Marionette	INFO	Stopped listening on port 55762
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.bbc.com/news line 14 > injectedScript, line 79: TypeError: this.root.document.body is null
+1614725992729	Marionette	INFO	Stopped listening on port 55768
+1614725992829	Marionette	INFO	Stopped listening on port 55760
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00E8,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1614726057856	geckodriver	INFO	Listening on 127.0.0.1:51271
+1614726057856	geckodriver	INFO	Listening on 127.0.0.1:51272
+1614726057856	geckodriver	INFO	Listening on 127.0.0.1:51273
+1614726057859	geckodriver	INFO	Listening on 127.0.0.1:51274
+1614726058879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile6d059J"
+1614726058879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofiledmZMZi"
+1614726058879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilefvfG4Q"
+1614726058879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilenZYzp5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614726061659	Marionette	INFO	Listening on port 51308
+1614726061721	Marionette	INFO	Listening on port 51309
+1614726061727	Marionette	INFO	Listening on port 51312
+1614726061823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726061825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726061827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726062068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726062143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726062223	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726062305	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726062381	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726062470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063511	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063582	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063726	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726063795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614726067205	Marionette	INFO	Listening on port 51310
+1614726067206	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726067311	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067422	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067518	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067629	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067673	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067711	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726067867	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://www.bbc.com/news line 14 > injectedScript, line 79: TypeError: this.root.document.body is null
+1614726083668	Marionette	INFO	Stopped listening on port 51312
+1614726083800	Marionette	INFO	Stopped listening on port 51310
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614726174889	geckodriver	INFO	Listening on 127.0.0.1:49821
+1614726174890	geckodriver	INFO	Listening on 127.0.0.1:49822
+1614726174890	geckodriver	INFO	Listening on 127.0.0.1:49823
+1614726174893	geckodriver	INFO	Listening on 127.0.0.1:49824
+1614726174906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilegNpU4y"
+1614726174910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileMHdppG"
+1614726174910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilexMzdBJ"
+1614726174911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilephbuY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614726177651	Marionette	INFO	Listening on port 49854
+1614726177738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726177744	Marionette	INFO	Listening on port 49859
+1614726177831	Marionette	INFO	Listening on port 49857
+1614726177889	Marionette	INFO	Listening on port 49860
+1614726177975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726177978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726177979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614726178143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178152	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178315	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726178547	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3294 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3294 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3294 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1614726179522	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614726179645	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179841	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179870	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726179949	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180099	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180149	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180173	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614726180316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614728264576	geckodriver	INFO	Listening on 127.0.0.1:50176
+1614728264576	geckodriver	INFO	Listening on 127.0.0.1:50177
+1614728264576	geckodriver	INFO	Listening on 127.0.0.1:50179
+1614728264576	geckodriver	INFO	Listening on 127.0.0.1:50178
+1614728266597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilejxDiSE"
+1614728266597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileLrhesw"
+1614728266597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilehFsqSk"
+1614728266597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilevAZBei"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614728269379	Marionette	INFO	Listening on port 50465
+1614728269384	Marionette	INFO	Listening on port 50463
+1614728269386	Marionette	INFO	Listening on port 50464
+1614728269411	Marionette	INFO	Listening on port 50466
+1614728269496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728269496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728269499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728269504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728269818	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728269821	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728269918	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728269924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270160	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270242	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728270245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728271444	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271758	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271820	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271832	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271896	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728271994	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728289834	Marionette	INFO	Stopped listening on port 50466
+1614728290017	Marionette	INFO	Stopped listening on port 50465
+1614728290273	Marionette	INFO	Stopped listening on port 50464
+1614728290369	Marionette	INFO	Stopped listening on port 50463
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728291119	geckodriver	INFO	Listening on 127.0.0.1:53907
+1614728291120	geckodriver	INFO	Listening on 127.0.0.1:53908
+1614728291122	geckodriver	INFO	Listening on 127.0.0.1:53909
+1614728291122	geckodriver	INFO	Listening on 127.0.0.1:53910
+1614728429433	geckodriver	INFO	Listening on 127.0.0.1:54947
+1614728429434	geckodriver	INFO	Listening on 127.0.0.1:54948
+1614728429436	geckodriver	INFO	Listening on 127.0.0.1:54949
+1614728429437	geckodriver	INFO	Listening on 127.0.0.1:54950
+1614728433454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileLKzHph"
+1614728433456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile5ysTrU"
+1614728433457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileD0uWpA"
+1614728433457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewmZefV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614728436223	Marionette	INFO	Listening on port 55492
+1614728436246	Marionette	INFO	Listening on port 55494
+1614728436271	Marionette	INFO	Listening on port 55491
+1614728436281	Marionette	INFO	Listening on port 55488
+1614728436305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728436309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728436421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728436429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728436718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728436734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728436908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728436951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437097	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437273	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728437297	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728438960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439040	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439134	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439292	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439371	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439526	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728439604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614728545841	geckodriver	INFO	Listening on 127.0.0.1:53369
+1614728545844	geckodriver	INFO	Listening on 127.0.0.1:53370
+1614728545845	geckodriver	INFO	Listening on 127.0.0.1:53371
+1614728545846	geckodriver	INFO	Listening on 127.0.0.1:53372
+1614728546864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileK9p08I"
+1614728546866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileuv9paL"
+1614728546866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileMuswS2"
+1614728546866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilelx8CHq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614728549576	Marionette	INFO	Listening on port 53408
+1614728549584	Marionette	INFO	Listening on port 53411
+1614728549587	Marionette	INFO	Listening on port 53405
+1614728549610	Marionette	INFO	Listening on port 53410
+1614728549694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728549697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728549697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728549698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728549904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728549904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728549987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728549988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550072	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728550312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728551725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728551812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728551911	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552253	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552560	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552638	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728552709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614728640310	geckodriver	INFO	Listening on 127.0.0.1:49288
+1614728640312	geckodriver	INFO	Listening on 127.0.0.1:49290
+1614728640312	geckodriver	INFO	Listening on 127.0.0.1:49291
+1614728640315	geckodriver	INFO	Listening on 127.0.0.1:49292
+1614728644330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileS67n2R"
+1614728644335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilegjqfxU"
+1614728644335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewK5mQ7"
+1614728644335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilerEYWcl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614728647359	Marionette	INFO	Listening on port 49835
+1614728647363	Marionette	INFO	Listening on port 49834
+1614728647393	Marionette	INFO	Listening on port 49829
+1614728647441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728647444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728647544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728647738	Marionette	INFO	Listening on port 49833
+1614728647799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728647819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728647893	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728647977	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728647985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648107	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648264	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648388	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648389	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648494	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728648574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728649699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728649779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728649854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728649923	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728649993	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614728650221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728650449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650667	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728650994	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728651074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614728699539	geckodriver	INFO	Listening on 127.0.0.1:57023
+1614728699541	geckodriver	INFO	Listening on 127.0.0.1:57024
+1614728699541	geckodriver	INFO	Listening on 127.0.0.1:57025
+1614728699544	geckodriver	INFO	Listening on 127.0.0.1:57026
+1614728703559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileDWnRnl"
+1614728703566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilezHPoT6"
+1614728703566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileun5vNn"
+1614728703566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileVulnOq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614728706452	Marionette	INFO	Listening on port 57561
+1614728706500	Marionette	INFO	Listening on port 57563
+1614728706503	Marionette	INFO	Listening on port 57557
+1614728706514	Marionette	INFO	Listening on port 57562
+1614728706641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728706641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728706641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728706642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614728706894	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728706910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707127	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707242	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707400	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728707410	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614728708889	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728708988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728708988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709305	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709394	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614728709611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614729038102	geckodriver	INFO	Listening on 127.0.0.1:50339
+1614729038102	geckodriver	INFO	Listening on 127.0.0.1:50338
+1614729038102	geckodriver	INFO	Listening on 127.0.0.1:50336
+1614729038102	geckodriver	INFO	Listening on 127.0.0.1:50337
+1614729039120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileN8GhnQ"
+1614729039120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofiles35efY"
+1614729039120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile6KRziy"
+1614729039121	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilemo5IpW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614729041945	Marionette	INFO	Listening on port 50373
+1614729041947	Marionette	INFO	Listening on port 50375
+1614729041975	Marionette	INFO	Listening on port 50374
+1614729041981	Marionette	INFO	Listening on port 50372
+1614729042081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729042082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729042085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729042087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729042320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042354	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042523	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042580	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042670	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042703	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042753	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729042779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3757 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3757 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3757 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 1288 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 1288 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 1288 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5861 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5861 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5861 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3813 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3813 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3813 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1614729053987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054073	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054222	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054298	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054305	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054387	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054389	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054542	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054681	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729054819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614729718431	geckodriver	INFO	Listening on 127.0.0.1:55740
+1614729718431	geckodriver	INFO	Listening on 127.0.0.1:55741
+1614729718430	geckodriver	INFO	Listening on 127.0.0.1:55742
+1614729718431	geckodriver	INFO	Listening on 127.0.0.1:55743
+1614729722450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileddduZg"
+1614729722450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileaoPYST"
+1614729722450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilediiYOu"
+1614729722450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilei23Und"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614729725224	Marionette	INFO	Listening on port 56280
+1614729725229	Marionette	INFO	Listening on port 56277
+1614729725260	Marionette	INFO	Listening on port 56279
+1614729725473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729725473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729725601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729725748	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729725839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729725910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729725980	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729726052	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729726126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614729731103	Marionette	INFO	Listening on port 56278
+1614729731172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729731339	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729731438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729731523	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729731618	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729731707	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729731789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740205	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740511	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740686	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729740937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729741617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614729871688	geckodriver	INFO	Listening on 127.0.0.1:59039
+1614729871688	geckodriver	INFO	Listening on 127.0.0.1:59036
+1614729871690	geckodriver	INFO	Listening on 127.0.0.1:59041
+1614729871693	geckodriver	INFO	Listening on 127.0.0.1:59043
+1614729871726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofiledGZf6X"
+1614729871726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileCUiuAr"
+1614729871729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileQ0eRI2"
+1614729871729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile52S3LE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614729874607	Marionette	INFO	Listening on port 59082
+1614729874642	Marionette	INFO	Listening on port 59089
+1614729874711	Marionette	INFO	Listening on port 59083
+1614729874746	Marionette	INFO	Listening on port 59088
+1614729875310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729875311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729875311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729875312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614729875509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875781	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875859	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875941	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614729875948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614730059745	geckodriver	INFO	Listening on 127.0.0.1:62284
+1614730059745	geckodriver	INFO	Listening on 127.0.0.1:62285
+1614730059745	geckodriver	INFO	Listening on 127.0.0.1:62286
+1614730059749	geckodriver	INFO	Listening on 127.0.0.1:62287
+1614730063771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilew58Rmr"
+1614730063771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileC6lqBa"
+1614730063771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileNYcnfg"
+1614730063773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileFWpIR3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614730066502	Marionette	INFO	Listening on port 62821
+1614730066504	Marionette	INFO	Listening on port 62825
+1614730066566	Marionette	INFO	Listening on port 62822
+1614730066588	Marionette	INFO	Listening on port 62823
+1614730066666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730066666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730066666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730066667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730066901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730066901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067411	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730067419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1614730079697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730079775	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730079847	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730079918	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730079992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080154	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080232	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080451	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080592	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730080661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614730130240	geckodriver	INFO	Listening on 127.0.0.1:54948
+1614730130243	geckodriver	INFO	Listening on 127.0.0.1:54949
+1614730130244	geckodriver	INFO	Listening on 127.0.0.1:54950
+1614730130245	geckodriver	INFO	Listening on 127.0.0.1:54951
+1614730133260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileSFrMkw"
+1614730133270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileo1UCjc"
+1614730133270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileJSYAvQ"
+1614730133270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileVWzsTS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614730135917	Marionette	INFO	Listening on port 55414
+1614730135976	Marionette	INFO	Listening on port 55436
+1614730136007	Marionette	INFO	Listening on port 55435
+1614730136030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730136047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730136054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730136076	Marionette	INFO	Listening on port 55437
+1614730136168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614730136326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136648	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136664	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136727	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614730136823	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1614732669758	Marionette	INFO	Stopped listening on port 54891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614732673188	Marionette	INFO	Stopped listening on port 54890
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614732687705	geckodriver	INFO	Listening on 127.0.0.1:62928
+1614732687705	geckodriver	INFO	Listening on 127.0.0.1:62929
+1614732687708	geckodriver	INFO	Listening on 127.0.0.1:62931
+1614732687708	geckodriver	INFO	Listening on 127.0.0.1:62934
+1614732687731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile3t8Twu"
+1614732687731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileY9Dmcr"
+1614732687731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileFw1MNq"
+1614732687732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilewEEEiQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614732691019	Marionette	INFO	Listening on port 62985
+1614732691047	Marionette	INFO	Listening on port 62989
+1614732691055	Marionette	INFO	Listening on port 62984
+1614732691207	Marionette	INFO	Listening on port 62983
+1614732691536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614732691536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614732691537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614732691538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614732691887	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732691890	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692098	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692101	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614732692573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1614738040975	geckodriver	INFO	Listening on 127.0.0.1:56570
+1614738040975	geckodriver	INFO	Listening on 127.0.0.1:56571
+1614738040975	geckodriver	INFO	Listening on 127.0.0.1:56573
+1614738040975	geckodriver	INFO	Listening on 127.0.0.1:56572
+1614738041995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileJcBQON"
+1614738041995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile4AvHQ6"
+1614738041995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileYvk785"
+1614738041995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileo2Z2L3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1614738051533	geckodriver	INFO	Listening on 127.0.0.1:57851
+1614738051534	geckodriver	INFO	Listening on 127.0.0.1:57852
+1614738051534	geckodriver	INFO	Listening on 127.0.0.1:57853
+1614738051536	geckodriver	INFO	Listening on 127.0.0.1:57854
+1614738055563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilezQsPz5"
+1614738055563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilelu88TY"
+1614738055563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilexQRNsG"
+1614738055564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilexHlLy5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614738058288	Marionette	INFO	Listening on port 58391
+1614738058330	Marionette	INFO	Listening on port 58393
+1614738058336	Marionette	INFO	Listening on port 58390
+1614738058377	Marionette	INFO	Listening on port 58389
+1614738058616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614738058616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614738058616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614738058616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614738058930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738058930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059027	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059100	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059100	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059170	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059172	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059248	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614738059332	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 1954 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 1954 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 1954 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 4382 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 4382 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a8ed045b9afe4d426%2c10%3a1614738060%2c16%3a0d6db91584f2e646%2cf0c686048e065a4adaedb288ab0b7e1696749f404d6eed8958a77023f52f48f3%22%2c%22cdl%22%3anull%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22543db9b18d2740f6b2bed28a91a52dc8%22%7d&response_type=code line 1 > eval line 4382 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614795787013	geckodriver	INFO	Listening on 127.0.0.1:54773
+1614795787013	geckodriver	INFO	Listening on 127.0.0.1:54774
+1614795787013	geckodriver	INFO	Listening on 127.0.0.1:54772
+1614795787014	geckodriver	INFO	Listening on 127.0.0.1:54775
+1614795791047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileDpi0Fp"
+1614795791047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile4FMdVZ"
+1614795791048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileBC4K2K"
+1614795791048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileiC9Wua"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614795794268	Marionette	INFO	Listening on port 55312
+1614795794290	Marionette	INFO	Listening on port 55309
+1614795794299	Marionette	INFO	Listening on port 55311
+1614795794300	Marionette	INFO	Listening on port 55310
+1614795794851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614795794851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614795794851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614795794851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614795795105	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795105	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795205	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795261	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795444	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795498	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1614795795532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
