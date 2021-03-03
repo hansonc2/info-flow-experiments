@@ -58,4 +58,4 @@ adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, ex
                         load_results=load_results, test_stat=test_stat, ml_analysis=True,
                         num_blocks=20, num_units=4, timeout=2000,
                         log_file=log_file, exp_flag=True, analysis_flag=False,
-                        treatment_names=["control (liberal)", "experimental(conservative)"])
+                        treatment_names=["control (libearl)", "experimental(conservative)"])
