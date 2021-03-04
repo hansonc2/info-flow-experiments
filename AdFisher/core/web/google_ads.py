@@ -4,9 +4,18 @@ from selenium import webdriver                                      # for runnin
 from datetime import datetime                                       # for tagging log with datetime
 from selenium.webdriver.common.keys import Keys                     # to press keys on a webpage
 from selenium.webdriver.common.action_chains import ActionChains    # to move mouse over
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 # import browser_unit
 from . import google_search                                                # interacting with Google Search
 
+from googleapiclient.discovery import build
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request                  # Auth for Google login
+import random
+import os.path
+import pickle
 # strip html
 
 from html.parser import HTMLParser
@@ -133,16 +142,104 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
             sys.stdout.write(".")
             sys.stdout.flush()
             driver.set_page_load_timeout(60)
-            driver.get("https://google.com/")
-            sign_in_path="/html/body/div/div/div[4]/div/div/div/div/div[3]/div[3]/h4/a"
-            elem1=browser.find_elements_by_xpath(sign_in_path)
-            elem1[0].click()
 
-            in_with_google="/html/body/div[2]/div/div/div/div[2]/div/div/div/div/div[3]/div[1]/a"
-            elem2=browser.find_elements_by_xpath(in_with_google)
-            elem2[0].click()
+            # log into Google via StackOverflow
+            driver.get("https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent%27")
+            time.sleep(2)
+            google_sign_in_path = '//*[@id="openid-buttons"]/button[1]'
+            google_button = driver.find_elements_by_xpath(google_sign_in_path)
+            time.sleep(1.5)
+            google_button[0].click()
+            driver.implicitly_wait(200)
+            time.sleep(2)
+
+            # input username
+            email_path = '/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div/div[1]/div/div[1]/input'
+            email_box = driver.find_element_by_xpath(email_path)
+            email_box.click()
+            time.sleep(1.5)
+            for ch in googleID:
+                email_box.send_keys(ch)
+                time.sleep(random.uniform(0.02, 0.15))
+            time.sleep(0.1)
+            driver.find_element_by_xpath('//*[@id="identifierNext"]').click()
+            #email_box.send_keys(Keys.ENTER)
+            driver.implicitly_wait(200)
+            time.sleep(1)
+
+            # input password
+            pass_path = '//*[@id="password"]/div[1]/div/div[1]/input'
+            with open('google_login_page.html', 'w') as f:
+                f.write(str(driver.page_source.encode("utf-8")))
+            password_box = driver.find_element_by_xpath(pass_path)
+            password_box.click()
+            time.sleep(0.7)
+            pass_path[0].send_keys(pswd)
+            time.sleep(0.2)
+            pass_path[0].send_keys(Keys.ENTER)
+
+            #success
+            print('Logged in as' + googleID)
+
         except Exception as e:
             print('$$$' + str(e) + '$$$')
             print('Login Failed')
 
+    def sign_in(self, username, password):
+        try:
+            driver = self.driver
+            id = self.unit_id
+            sys.stdout.write(".")
+            sys.stdout.flush()
+            driver.set_page_load_timeout(60)
+
+            # log into Google via StackOverflow
+            driver.get("https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent%27")
+            time.sleep(2)
+            print("PLEASE LOG IN MANUALLY")
+
+            WebDriverWait(driver, 20000)
+
+            #success
+            print('Logged in as' + username)
+
+        except Exception as e:
+            print('$$$' + str(e) + '$$$')
+            print('Login Failed')
+
+
+
+    # def sign_in(self, user, pswd):
+    #     SCOPES = ['https://www.googleapis.com/auth/gmail.treadonly']
+    #     creds = None
+    #     # The file token.pickle stores the user's access and refresh tokens, and is
+    #     # created automatically when the authorization flow completes for the first
+    #     # time.
+    #     if path.exists('token.pickle'):
+    #         with open('token.pickle', 'rb') as token:
+    #             creds = pickle.load(token)
+    #     # If there are no (valid) credentials available, let the user log in.
+    #     if not creds or not creds.valid:
+    #         if creds and creds.expired and creds.refresh_token:
+    #             creds.refresh(Request())
+    #         else:
+    #             flow = InstalledAppFlow.from_client_secrets_file(
+    #                 'credentials.json', SCOPES)
+    #             creds = flow.run_local_server(port=0)
+    #         # Save the credentials for the next run
+    #         with open('token.pickle', 'wb') as token:
+    #             pickle.dump(creds, token)
+
+    #     service = build('gmail', 'v1', credentials=creds)
+
+    #     # Call the Gmail API
+    #     results = service.users().labels().list(userId='me').execute()
+    #     labels = results.get('labels', [])
+
+    #     if not labels:
+    #         print('No labels found.')
+    #     else:
+    #         print('Labels:')
+    #         for label in labels:
+    #             print(label['name'])
 

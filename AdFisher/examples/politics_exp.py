@@ -20,7 +20,7 @@ def make_browser(unit_id, treatment_id):
 
 # Control Group treatment
 def control_treatment(unit):
-    unit.login('chempto@gmail.com', '')
+    unit.login('chempto@gmail.com', 'misstess')
     #unit.opt_in()
     #unit.set_gender('m')
     unit.visit_sites(site_file='politics.txt')
@@ -56,6 +56,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment],
                         measurement=measurement, end_unit=cleanup_browser,
                         load_results=load_results, test_stat=test_stat, ml_analysis=True,
-                        num_blocks=20, num_units=4, timeout=2000,
+                        num_blocks=4, num_units=2, timeout=2000,
                         log_file=log_file, exp_flag=True, analysis_flag=False,
                         treatment_names=["control (libearl)", "experimental(conservative)"])
