@@ -5,3 +5,4 @@
 easylist.txt
 log_*
 credentials.json
+.env
