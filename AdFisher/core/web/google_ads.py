@@ -14,8 +14,11 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request                  # Auth for Google login
 import random
-import os.path
+import os
 import pickle
+import webbrowser
+
+from twilio.rest import TwilioRestClient
 # strip html
 
 from html.parser import HTMLParser
@@ -135,111 +138,41 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         driver.get()
 
 
-    def login(self, googleID, pswd):
-        try:
-            driver = self.driver
-            id = self.unit_id
-            sys.stdout.write(".")
-            sys.stdout.flush()
-            driver.set_page_load_timeout(60)
+    def create_account(self):
+        driver = self.driver
+        id = self.unit_id
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        driver.set_page_load_timeout(200)
 
-            # log into Google via StackOverflow
-            driver.get("https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent%27")
-            time.sleep(2)
-            google_sign_in_path = '//*[@id="openid-buttons"]/button[1]'
-            google_button = driver.find_elements_by_xpath(google_sign_in_path)
-            time.sleep(1.5)
-            google_button[0].click()
-            driver.implicitly_wait(200)
-            time.sleep(2)
+        # log into Google via StackOverflow
+        driver.get("https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp")
 
-            # input username
-            email_path = '/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div/div[1]/div/div[1]/input'
-            email_box = driver.find_element_by_xpath(email_path)
-            email_box.click()
-            time.sleep(1.5)
-            for ch in googleID:
-                email_box.send_keys(ch)
-                time.sleep(random.uniform(0.02, 0.15))
-            time.sleep(0.1)
-            driver.find_element_by_xpath('//*[@id="identifierNext"]').click()
-            #email_box.send_keys(Keys.ENTER)
-            driver.implicitly_wait(200)
-            time.sleep(1)
-
-            # input password
-            pass_path = '//*[@id="password"]/div[1]/div/div[1]/input'
-            with open('google_login_page.html', 'w') as f:
-                f.write(str(driver.page_source.encode("utf-8")))
-            password_box = driver.find_element_by_xpath(pass_path)
-            password_box.click()
-            time.sleep(0.7)
-            pass_path[0].send_keys(pswd)
-            time.sleep(0.2)
-            pass_path[0].send_keys(Keys.ENTER)
-
-            #success
-            print('Logged in as' + googleID)
-
-        except Exception as e:
-            print('$$$' + str(e) + '$$$')
-            print('Login Failed')
-
-    def sign_in(self, username, password):
-        try:
-            driver = self.driver
-            id = self.unit_id
-            sys.stdout.write(".")
-            sys.stdout.flush()
-            driver.set_page_load_timeout(60)
-
-            # log into Google via StackOverflow
-            driver.get("https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent%27")
-            time.sleep(2)
-            print("PLEASE LOG IN MANUALLY")
-
-            WebDriverWait(driver, 20000)
-
-            #success
-            print('Logged in as' + username)
-
-        except Exception as e:
-            print('$$$' + str(e) + '$$$')
-            print('Login Failed')
+        print("$" * 20)
+        print('PLEASE CREATE A GOOGLE ACCOUNT MANUALLY')
+        print("IF ASKED FOR A PHONE VERIFICATION, USE TWILIO #+14152379781")
+        print("$" * 20)
+        print('@' * 10)
+        while True:
+            if driver.current_url.startswith('https://accounts.google.com/signup/v2/webgradsidvphone'):
+                break
+        print("Phone Verification Started!")
+        time.sleep(60)
 
 
 
-    # def sign_in(self, user, pswd):
-    #     SCOPES = ['https://www.googleapis.com/auth/gmail.treadonly']
-    #     creds = None
-    #     # The file token.pickle stores the user's access and refresh tokens, and is
-    #     # created automatically when the authorization flow completes for the first
-    #     # time.
-    #     if path.exists('token.pickle'):
-    #         with open('token.pickle', 'rb') as token:
-    #             creds = pickle.load(token)
-    #     # If there are no (valid) credentials available, let the user log in.
-    #     if not creds or not creds.valid:
-    #         if creds and creds.expired and creds.refresh_token:
-    #             creds.refresh(Request())
-    #         else:
-    #             flow = InstalledAppFlow.from_client_secrets_file(
-    #                 'credentials.json', SCOPES)
-    #             creds = flow.run_local_server(port=0)
-    #         # Save the credentials for the next run
-    #         with open('token.pickle', 'wb') as token:
-    #             pickle.dump(creds, token)
 
-    #     service = build('gmail', 'v1', credentials=creds)
+    def twilio_verify(self):
+        ACCOUNT_SID = os.environ.get('TWILIO_SID')
+        AUTH_TOKEN = os.environ.get('TWILIO_TOKEN')
+        client = TwiloRestClient(ACCOUNT_SID, AUTH_TOKEN)
 
-    #     # Call the Gmail API
-    #     results = service.users().labels().list(userId='me').execute()
-    #     labels = results.get('labels', [])
 
-    #     if not labels:
-    #         print('No labels found.')
-    #     else:
-    #         print('Labels:')
-    #         for label in labels:
-    #             print(label['name'])
+
+    def set_ad_preferences(self):
+        driver.get('https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&followup=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
+
+        print('Select the ad settings relevant to the account you created>>>>>>>')
+
+
 

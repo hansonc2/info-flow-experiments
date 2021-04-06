@@ -50,16 +50,20 @@ class BrowserUnit:
             else:
                 print("Unidentified Platform")
                 sys.exit(0)
+
+            # set environment and add options to driver 
             os.environ["webdriver.chrome.driver"] = chromedriver
             chrome_option = webdriver.ChromeOptions()
-            chrome_option.add_argument("user-data-dir=/Users/colehanson/Library/Application Support/Google/Chrome/")
+            #chrome_option.add_argument("user-data-dir=/Users/colehanson/Library/Application Support/Google/Chrome/")
             chrome_option.add_experimental_option("excludeSwitches", ["enable-automation"])
             chrome_option.add_experimental_option('useAutomationExtension', False)
             chrome_option.add_argument('--disable-blink-features=AutomationControlled')
 
             if(proxy != None):
                 chrome_option.add_argument("--proxy-server="+proxy)
-            self.driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=chrome_option)
+            
+            # initialize driver
+            self.driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=chrome_option, port = 8080)
         else:
             print("Unsupported Browser")
             sys.exit(0)
