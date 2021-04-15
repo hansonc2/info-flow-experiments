@@ -1,4 +1,5 @@
 import sys, os
+from datetime import datetime
 sys.path.append("../core")          # files from the core
 import adfisher                     # adfisher wrapper function
 import web.pre_experiment.alexa     # collecting top sites from alexa
@@ -26,7 +27,9 @@ def control_treatment(unit):
     #unit.opt_in()
     #unit.set_gender('m')
     unit.create_account()
-    unit.visit_sites(site_file='politics.txt')
+    out_path = './output/' + os.path.basename(__file__)[:-3] + '_control_group_' + str(datetime.now())
+    os.mkdir(out_path)
+    unit.visit_sites(site_file='politicsL.txt', out_path=out_path)
     unit.collect_ads(1,10, 'bbc', 'adsControl.txt')
 
 
@@ -37,7 +40,9 @@ def exp_treatment(unit):
     #unit.opt_in()
     #unit.set_gender('m')
     unit.create_account()
-    unit.visit_sites(site_file='politicsR.txt')
+    out_path ='./output/' + os.path.basename(__file__)[:-3] + '_experiment_group_' + str(datetime.now())
+    os.mkdir(out_path)
+    unit.visit_sites(site_file='politicsR.txt', out_path=out_path)
     unit.collect_ads(1,10, 'bbc', 'adsTreat.txt')
 
 

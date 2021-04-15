@@ -150,7 +150,7 @@ class BrowserUnit:
                 else:
                     clear = False
 
-    def visit_sites(self, site_file, delay=5):
+    def visit_sites(self, site_file, out_path, delay=5):
         """Visits all pages in site_file"""
         fo = open(site_file, "r")
         for line in fo:
@@ -166,9 +166,11 @@ class BrowserUnit:
             except:
                 self.log('error', 'website timeout', site)
 
+            # save screenshot of visited site
             time.sleep(1)
-            filename = "AD"+ site + datetime.now() + '.png'
-            driver.get_screenshot_as_file(filename)
+            filename =  out_path + '/'+ site + '.png'
+            print("%%%%%%%%" + filename)
+            self.driver.get_screenshot_as_file(filename)
 
 
     def collect_sites_from_alexa(self, alexa_link, output_file="sites.txt", num_sites=5):
