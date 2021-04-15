@@ -18,7 +18,7 @@ import os
 import pickle
 import webbrowser
 
-from twilio.rest import TwilioRestClient
+from twilio.rest import Client
 # strip html
 
 from html.parser import HTMLParser
@@ -130,13 +130,11 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
             self.log('measurement', 'ad', ad)
 
 
-
     def opt_in(self):
         driver = self.driver
         id = self.unit_id
         driver.set_page_load_timeout(60)
         driver.get()
-
 
     def create_account(self):
         driver = self.driver
@@ -148,31 +146,21 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         # log into Google via StackOverflow
         driver.get("https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp")
 
-        print("$" * 20)
+        print("$" * 50)
         print('PLEASE CREATE A GOOGLE ACCOUNT MANUALLY')
-        print("IF ASKED FOR A PHONE VERIFICATION, USE TWILIO #+14152379781")
-        print("$" * 20)
-        print('@' * 10)
+        print("$" * 50, '\n')
         while True:
             if driver.current_url.startswith('https://accounts.google.com/signup/v2/webgradsidvphone'):
                 break
         print("Phone Verification Started!")
+        print("Use your phone nubmer until you get banned...I dunno")
+
+        # open ad preferences for account
         time.sleep(60)
 
-
-
-
-    def twilio_verify(self):
-        ACCOUNT_SID = os.environ.get('TWILIO_SID')
-        AUTH_TOKEN = os.environ.get('TWILIO_TOKEN')
-        client = TwiloRestClient(ACCOUNT_SID, AUTH_TOKEN)
-
-
-
-    def set_ad_preferences(self):
         driver.get('https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&followup=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
 
-        print('Select the ad settings relevant to the account you created>>>>>>>')
+        print('<<<<<<<Select the ad settings relevant to the account you created>>>>>>>', '\n')
 
 
 

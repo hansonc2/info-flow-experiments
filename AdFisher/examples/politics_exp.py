@@ -27,6 +27,8 @@ def control_treatment(unit):
     #unit.set_gender('m')
     unit.create_account()
     unit.visit_sites(site_file='politics.txt')
+    unit.collect_ads(1,10, 'bbc', 'adsControl.txt')
+
 
 # Experimental Group treatment
 def exp_treatment(unit):
@@ -34,8 +36,9 @@ def exp_treatment(unit):
     #unit.login('chempto@gmail.com', os.environ['GOOGLEPASS'])
     #unit.opt_in()
     #unit.set_gender('m')
-    unit.c:eate_account()
+    unit.create_account()
     unit.visit_sites(site_file='politicsR.txt')
+    unit.collect_ads(1,10, 'bbc', 'adsTreat.txt')
 
 
 # Measurement - Collects ads
@@ -63,5 +66,5 @@ adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, ex
                         measurement=measurement, end_unit=cleanup_browser,
                         load_results=load_results, test_stat=test_stat, ml_analysis=True,
                         num_blocks=1, num_units=2, timeout=2000,
-                        log_file=log_file, exp_flag=True, analysis_flag=False,
+                        log_file=log_file, exp_flag=True, analysis_flag=True,
                         treatment_names=["control (liberal)", "experimental(conservative)"])

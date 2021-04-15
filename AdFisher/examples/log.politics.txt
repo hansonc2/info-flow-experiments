@@ -1,13 +1,7 @@
-2021-04-06 14:57:56.617822||meta||agents||2
-2021-04-06 14:57:56.617841||meta||treatnames||control (liberal)@|experimental(conservative)
-2021-04-06 14:57:56.618118||meta||block_id start||0
-2021-04-06 14:57:56.618129||meta||assignment||0@|1
-2021-04-06 14:57:59.146556||event||progress-marker||training-start||1||1
-2021-04-06 14:58:11.464242||treatment||visit website||http://foxnews.com||1||1
-2021-04-06 14:58:16.108955||error||website timeout||http://wsj.com||1||1
-2021-04-06 14:58:16.112973||error||website timeout||http://infowars.com||1||1
-2021-04-06 14:58:16.115210||error||website timeout||http://breitbart.com||1||1
-2021-04-06 14:58:16.117374||error||website timeout||http://rushlimbaugh.com||1||1
-2021-04-06 14:58:16.119041||error||website timeout||http://weaselzippers.us||1||1
-2021-04-06 14:58:16.120575||error||website timeout||http://whitehousedossier.com||1||1
-2021-04-06 14:58:16.120959||event||progress-marker||training-end||1||1
+2021-04-14 23:14:59.765469||meta||agents||2
+2021-04-14 23:14:59.765489||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-04-14 23:14:59.765782||meta||block_id start||0
+2021-04-14 23:14:59.765792||meta||assignment||0@|1
+2021-04-14 23:15:02.244133||event||progress-marker||training-start||1||1
+2021-04-14 23:15:02.245129||event||progress-marker||training-start||0||0
+2021-04-14 23:16:39.891864||treatment||visit website||http://breitbart.com||1||1
