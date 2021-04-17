@@ -27,10 +27,9 @@ def control_treatment(unit):
     #unit.opt_in()
     #unit.set_gender('m')
     unit.create_account()
-    out_path = './output/' + os.path.basename(__file__)[:-3] + '_control_group_' + str(datetime.now())
+    out_path = 'output/' + os.path.basename(__file__)[:-3] + '_control_group_' + str(datetime.now())
     os.mkdir(out_path)
     unit.visit_sites(site_file='politicsL.txt', out_path=out_path)
-    unit.collect_ads(1,10, 'bbc', 'adsControl.txt')
 
 
 # Experimental Group treatment
@@ -40,10 +39,9 @@ def exp_treatment(unit):
     #unit.opt_in()
     #unit.set_gender('m')
     unit.create_account()
-    out_path ='./output/' + os.path.basename(__file__)[:-3] + '_experiment_group_' + str(datetime.now())
+    out_path =  'output/' + os.path.basename(__file__)[:-3] + '_experiment_group_' + str(datetime.now())
     os.mkdir(out_path)
     unit.visit_sites(site_file='politicsR.txt', out_path=out_path)
-    unit.collect_ads(1,10, 'bbc', 'adsTreat.txt')
 
 
 # Measurement - Collects ads
@@ -69,7 +67,7 @@ def test_stat(observed_values, unit_assignments):
 
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment],
                         measurement=measurement, end_unit=cleanup_browser,
-                        load_results=load_results, test_stat=test_stat, ml_analysis=True,
+                        load_results=load_results, test_stat=test_stat, ml_analysis=False,
                         num_blocks=1, num_units=2, timeout=2000,
-                        log_file=log_file, exp_flag=True, analysis_flag=True,
-                        treatment_names=["control (liberal)", "experimental(conservative)"])
+                        log_file=log_file, exp_flag=True, analysis_flag=False,
+                       treatment_names=["control (liberal)", "experimental(conservative)"])

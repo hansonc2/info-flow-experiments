@@ -1,4 +1,4 @@
-import re, sys                                      
+import re, sys
 import numpy as np
 from datetime import datetime, timedelta            # to read timestamps reloadtimes
 from . import adVector, ad, common, interest, news         # common, ad ad_vector, interest, news classes
@@ -32,13 +32,13 @@ def ad_vectors(list, filtered_by = None):                                   # re
         for ads in list:
             new_ads = ads.filter_by_keywords(filtered_by)
             new_list.append(new_ads)
-    for ads in new_list:    
+    for ads in new_list:
         ad_union = ad_union.union(ads)
     av_list = []
     labels = []
     for ads in new_list:
         av_list.append(ad_union.gen_ad_vec(ads))
-        labels.append(ads.label) 
+        labels.append(ads.label)
     return av_list, labels, ad_union                    ## Returns entire ad as feature
 
 def freq_news_vectors(list):                                    # returns a frequency vector of news, when input a list of newsVecs
@@ -51,7 +51,7 @@ def freq_news_vectors(list):                                    # returns a freq
         av_list.append(news_union.gen_news_vec(newsv))
         labels.append(newsv.label)
     return av_list, labels, news_union                  ## Returns entire ad as feature
-    
+
 def temp_ad_vectors(list):
     ad_union = adVector.AdVector()
     for ads in list:
@@ -73,7 +73,7 @@ def temp_news_vectors(list):
         tav_list.append(news_union.gen_temp_news_vec(newsv))
         labels.append(newsv.label)
     return tav_list, labels, news_union
-    
+
 def interest_vectors(list):                         # returns a frequency vector of interests, when input a list of interessts
     int_union = interest.Interests()
     for ints in list:
@@ -96,7 +96,7 @@ def keyword_vectors(list, keywords):
 #       print labels
 #       raw_input("wait")
     return kw_list, labels
-        
+
 
 def get_interest_vectors(advdicts):
     list = []
@@ -121,7 +121,7 @@ def get_interest_vectors(advdicts):
         pass
     print("Complete")
     return np.array(X), np.array(y), feat
-    
+
 def get_feature_vectors(advdicts, feat_choice, filtered_by=None):         # returns observation vector from a list of rounds
     n = len(advdicts[0]['assignment'])
     list = []
@@ -142,7 +142,7 @@ def get_feature_vectors(advdicts, feat_choice, filtered_by=None):         # retu
         for advdict in advdicts:
             list.extend(advdict['newsvector'])
         X, labels, feat = freq_news_vectors(list)
-        
+
     if(labels[0] == ''):
         for advdict in advdicts:
             ass = advdict['assignment']
@@ -174,15 +174,15 @@ def get_keyword_vectors(advdicts, keywords):
     y = [y[i:i+n] for i in range(0,len(y),n)]
     print("Complete")
     return np.array(X),np.array(y)
-    
-    
+
+
 #------------- to read from log file into Ad Vectors ---------------#
 
 
 def apply_labels_to_vecs(adv, ints, newsv, ass, samples, treatments):           # check
     size = samples/treatments
     for i in range(0, treatments):
-        for j in range(0, size):
+        for j in range(0, int(size)):
             adv[int(ass[i*size+j])].setLabel(i)
             ints[int(ass[i*size+j])].setLabel(i)
             newsv[int(ass[i*size+j])].setLabel(i)
@@ -253,7 +253,7 @@ def read_log(log_file):
     print("Treatments: ", treatnames)
     return par_adv, treatnames
 
-def read_old_log(log_file):                         
+def read_old_log(log_file):
     treatnames = []
     fo = open(log_file, "r")
     line = fo.readline()
@@ -291,9 +291,9 @@ def read_old_log(log_file):
     breakout = False
     par_adv = []
     ass = []
-        
+
     fo = open(log_file, "r")
-    r = 0   
+    r = 0
     sys.stdout.write("Scanning ads")
     for line in fo:
         chunks = re.split("\|\|", line)
@@ -301,14 +301,14 @@ def read_old_log(log_file):
         if(chunks[0] == gmarker and r==0):
             r += 1
             ass = chunks[2:]
-            if(old):    
+            if(old):
                 ass = chunks[1:]
             assert len(ass) == samples
             apply_labels_to_vecs(adv, ints, newsv, ass, samples, treatments)
             #print ass
         elif(chunks[0] == gmarker and r >0 ):
             r += 1
-            par_adv.append({'advector':adv, 'newsvector':newsv, 'assignment':ass, 'xf':xvfbfails, 'intvector':ints, 
+            par_adv.append({'advector':adv, 'newsvector':newsv, 'assignment':ass, 'xf':xvfbfails, 'intvector':ints,
                         'break':breakout, 'loadtimes':loadtimes, 'reloads':reloads, 'errors':errors})
             sys.stdout.write(".")
             sys.stdout.flush()
@@ -325,7 +325,7 @@ def read_old_log(log_file):
             xvfbfails = []
             breakout = False
             ass = chunks[2:]
-            if(old):    
+            if(old):
                 ass = chunks[1:]
             assert len(ass) == samples
             apply_labels_to_vecs(adv, ints, newsv, ass, samples, treatments)
@@ -353,25 +353,25 @@ def read_old_log(log_file):
             int_str = chunks[3]
             ints[id].set_from_string(int_str)
         elif(chunks[0] == 'news'):
-            ind_news = news.News({'Time':datetime.strptime(chunks[3], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[4], 
+            ind_news = news.News({'Time':datetime.strptime(chunks[3], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[4],
                     'Agency': chunks[5], 'Ago': chunks[6], 'Body': chunks[7].rstrip(), 'Label':chunks[2]})
             newsv[int(chunks[1])].add(ind_news)
         elif(chunks[0] == 'ad'):
-            ind_ad = ad.Ad({'Time':datetime.strptime(chunks[3], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[4], 
+            ind_ad = ad.Ad({'Time':datetime.strptime(chunks[3], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[4],
                     'URL': chunks[5], 'Body': chunks[6].rstrip(), 'cat': "", 'Label':chunks[2]})
             adv[int(chunks[1])].add(ind_ad)
         else:                           # to analyze old log files
             try:
-                ind_ad = ad.Ad({'Time':datetime.strptime(chunks[2], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[3], 
+                ind_ad = ad.Ad({'Time':datetime.strptime(chunks[2], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[3],
                         'URL': chunks[4], 'Body': chunks[5].rstrip(), 'cat': "", 'label':chunks[1]})
-#               ind_ad = ad.Ad({'Time':datetime.strptime(chunks[1], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[2], 
+#               ind_ad = ad.Ad({'Time':datetime.strptime(chunks[1], "%Y-%m-%d %H:%M:%S.%f"), 'Title':chunks[2],
 #                       'URL': chunks[3], 'Body': chunks[4].rstrip(), 'cat': "", 'label':""})
                 adv[int(chunks[0])].add(ind_ad)
             except:
                 pass
-    
+
     r += 1
-    par_adv.append({'advector':adv, 'newsvector':newsv, 'assignment':ass, 'xf':xvfbfails, 'intvector':ints, 
+    par_adv.append({'advector':adv, 'newsvector':newsv, 'assignment':ass, 'xf':xvfbfails, 'intvector':ints,
             'break':breakout, 'loadtimes':loadtimes, 'reloads':reloads, 'errors':errors})
     sys.stdout.write(".Scanning complete\n")
     sys.stdout.flush()

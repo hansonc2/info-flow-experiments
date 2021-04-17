@@ -153,6 +153,9 @@ class BrowserUnit:
     def visit_sites(self, site_file, out_path, delay=5):
         """Visits all pages in site_file"""
         fo = open(site_file, "r")
+        print('\n', '@' * 40)
+        print("Grab a coffee, Mr.Roboto🤖 will visit sites for you :)")
+        print('@' * 40, '\n' * 2)
         for line in fo:
             chunks = re.split("\|\|", line)
             site = "http://"+chunks[0].strip()
@@ -168,9 +171,13 @@ class BrowserUnit:
 
             # save screenshot of visited site
             time.sleep(1)
-            filename =  out_path + '/'+ site + '.png'
-            print("%%%%%%%%" + filename)
-            self.driver.get_screenshot_as_file(filename)
+            # this is really ugly
+            site = site[:-4]
+            site = site[7:]
+
+            filename = site + '.png'
+            print("SAVED SCREENSHOT>>>" + filename)
+            success = self.driver.save_screenshot(out_path + '/' + filename)
 
 
     def collect_sites_from_alexa(self, alexa_link, output_file="sites.txt", num_sites=5):

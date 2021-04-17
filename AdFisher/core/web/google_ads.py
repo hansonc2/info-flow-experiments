@@ -155,12 +155,13 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         print("Phone Verification Started!")
         print("Use your phone nubmer until you get banned...I dunno")
 
-        # open ad preferences for account
-        time.sleep(60)
 
+        # open ad preferences for account
         driver.get('https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&followup=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
 
         print('<<<<<<<Select the ad settings relevant to the account you created>>>>>>>', '\n')
+
+        time.sleep(60)
 
 
 
