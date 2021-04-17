@@ -1,25 +1,9 @@
-2021-04-17 12:51:56.036585||meta||agents||2
-2021-04-17 12:51:56.036604||meta||treatnames||control (liberal)@|experimental(conservative)
-2021-04-17 12:51:56.036843||meta||block_id start||0
-2021-04-17 12:51:56.036852||meta||assignment||0@|1
-2021-04-17 12:51:58.728698||event||progress-marker||training-start||1||1
-2021-04-17 12:51:58.728800||event||progress-marker||training-start||0||0
-2021-04-17 12:53:33.684569||treatment||visit website||http://breitbart.com||1||1
-2021-04-17 12:53:48.633689||treatment||visit website||http://rightwingnews.com||1||1
-2021-04-17 12:53:57.294853||treatment||visit website||http://huffpost.com||0||0
-2021-04-17 12:54:00.236387||treatment||visit website||http://reddit.com/r/Conservative||1||1
-2021-04-17 12:54:08.427300||treatment||visit website||http://cnn.com||0||0
-2021-04-17 12:54:14.800704||treatment||visit website||http://foxnews.com||1||1
-2021-04-17 12:54:21.733480||treatment||visit website||http://msnbc.com||0||0
-2021-04-17 12:54:24.927601||treatment||visit website||http://infowars.com||1||1
-2021-04-17 12:54:32.236169||treatment||visit website||http://nyt.com||0||0
-2021-04-17 12:54:35.006975||treatment||visit website||http://reddit.com/r/guns||1||1
-2021-04-17 12:54:45.323511||treatment||visit website||http://slate.com||0||0
-2021-04-17 12:54:56.425044||treatment||visit website||http://reddit.com/r/neoliberal||0||0
-2021-04-17 12:55:02.990442||treatment||visit website||http://nypost.com||1||1
-2021-04-17 12:55:15.284496||treatment||visit website||http://rollingstone.com||0||0
-2021-04-17 12:55:16.558707||treatment||visit website||http://washingtontimes.com||1||1
-2021-04-17 12:55:26.907851||treatment||visit website||http://theamericanconservative.com||1||1
-2021-04-17 12:55:28.383325||treatment||visit website||http://thedailybeast.com||0||0
-2021-04-17 12:55:35.267938||error||website timeout||http://williams-sonoma.com||1||1
-2021-04-17 12:55:35.268025||error||website timeout||http://alternet.org||0||0
+2021-04-17 17:24:37.560778||meta||agents||2
+2021-04-17 17:24:37.560796||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-04-17 17:24:37.561016||meta||block_id start||0
+2021-04-17 17:24:37.561025||meta||assignment||1@|0
+2021-04-17 17:24:40.422782||event||progress-marker||training-start||0||1
+2021-04-17 17:24:40.427917||event||progress-marker||training-start||1||0
+2021-04-17 17:26:02.450946||experiment||visit website||http://breitbart.com||0||1
+2021-04-17 17:26:06.313286||experiment||visit website||https://www.breitbart.com/national-security/2021/04/14/china-suggests-japan-should-ship-fukushima-nuclear-waste-to-america/||0||1
+2021-04-17 17:26:18.063803||experiment||visit website||http://rightwingnews.com||0||1

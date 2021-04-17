@@ -29,7 +29,7 @@ def control_treatment(unit):
     unit.create_account()
     out_path = 'output/' + os.path.basename(__file__)[:-3] + '_control_group_' + str(datetime.now())
     os.mkdir(out_path)
-    unit.visit_sites(site_file='politicsL.txt', out_path=out_path)
+    unit.visit_sites(site_file='politicsL.txt', out_path=out_path, treatment='control')
 
 
 # Experimental Group treatment
@@ -41,8 +41,7 @@ def exp_treatment(unit):
     unit.create_account()
     out_path =  'output/' + os.path.basename(__file__)[:-3] + '_experiment_group_' + str(datetime.now())
     os.mkdir(out_path)
-    unit.visit_sites(site_file='politicsR.txt', out_path=out_path)
-
+    unit.visit_sites(site_file='politicsR.txt', out_path=out_path, treatment='experiment')
 
 # Measurement - Collects ads
 def measurement(unit):

@@ -3,6 +3,7 @@ import sys                                  # some prints
 import os, platform                         # for running  os, platform specific function calls
 from selenium import webdriver              # for running the driver on websites
 from datetime import datetime               # for tagging log with datetime
+from random import choice
 
 # from xvfbwrapper import Xvfb                # for creating artificial display to run experiments
 from selenium.webdriver.common.proxy import *       # for proxy settings
@@ -150,12 +151,13 @@ class BrowserUnit:
                 else:
                     clear = False
 
-    def visit_sites(self, site_file, out_path, delay=5):
+    def visit_sites(self, site_file, out_path,treatment='control', delay=5):
         """Visits all pages in site_file"""
         fo = open(site_file, "r")
-        print('\n', '@' * 40)
+        print('\n')
+        print('@' * 60)
         print("Grab a coffee, Mr.Roboto🤖 will visit sites for you :)")
-        print('@' * 40, '\n' * 2)
+        print('@' * 60, '\n' * 2)
         for line in fo:
             chunks = re.split("\|\|", line)
             site = "http://"+chunks[0].strip()
@@ -163,7 +165,7 @@ class BrowserUnit:
                 self.driver.set_page_load_timeout(40)
                 self.driver.get(site)
                 time.sleep(delay)
-                self.log('treatment', 'visit website', site)
+                self.log(treatment, 'visit website', site)
                             # pref = get_ad_pref(self.driver)
                             # self.log("pref"+"||"+str(treatment_id)+"||"+"@".join(pref), self.unit_id)
             except:
@@ -174,11 +176,30 @@ class BrowserUnit:
             # this is really ugly
             site = site[:-4]
             site = site[7:]
-
             filename = site + '.png'
+
             print("SAVED SCREENSHOT>>>" + filename)
             success = self.driver.save_screenshot(out_path + '/' + filename)
 
+            # simulate browsing activity
+            # self.simulate_browse(treatment, out_path)
+
+    def simulate_browse(self, treatment, out_path):
+        # scroll page, find link and click to simulate real activity
+        self.driver.execute_script('window.scrollTo(0,document.body.scrollHeight)')
+        hrefs = self.driver.find_elements_by_xpath("//a[@href]")
+        follow_link = choice(hrefs)
+        self.driver.execute_script('arguments[0].scrollIntoView();', follow_link)
+        follow_link.click()
+        time.sleep(0.5)
+        site = self.driver.current_url
+        self.log(treatment, 'visit website', site)
+        site = site[:-4]
+        site = site[7:]
+        site.replace('.', '_')
+        filename = site + '.png'
+
+        self.driver.save_screenshot(out_path + '/' + filename)
 
     def collect_sites_from_alexa(self, alexa_link, output_file="sites.txt", num_sites=5):
         """Collects sites from Alexa and stores them in file_name"""
