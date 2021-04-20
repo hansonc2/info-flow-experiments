@@ -149,15 +149,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         print("$" * 50)
         print('PLEASE CREATE A GOOGLE ACCOUNT MANUALLY')
         print("$" * 50, '\n')
-        while True:
-            if driver.current_url.startswith('https://accounts.google.com/signup/v2/webgradsidvphone'):
-                break
-        print("Phone Verification Started!")
-        print("Use your phone nubmer until you get banned...I dunno")
-
 
         # open ad preferences for account
-        driver.get('https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&followup=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
 
         print('<<<<<<<Select the ad settings relevant to the account you created>>>>>>>', '\n')
 

@@ -180,9 +180,23 @@ class BrowserUnit:
 
             print("SAVED SCREENSHOT>>>" + filename)
             success = self.driver.save_screenshot(out_path + '/' + filename)
+            html = self.driver.page_source
+            f = open(out_path + '/' + site.replace('/', '_') + '.html', 'w')
+            f.write(html)
+            f.close()
 
             # simulate browsing activity
             # self.simulate_browse(treatment, out_path)
+
+        # visit one last site with a lot of ads
+        self.driver.get('https://rpgbot.net/')
+        self.driver.save_screenshot(out_path + '/' + 'rpgads.png')
+        html = self.driver.page_source
+        f = open(out_path + '/' + 'rpgads' + '.html', 'w')
+        f.write(html)
+        f.close()
+
+
 
     def simulate_browse(self, treatment, out_path):
         # scroll page, find link and click to simulate real activity
