@@ -1,48 +1,21 @@
-2021-04-20 11:53:21.186959||meta||agents||2
-2021-04-20 11:53:21.186981||meta||treatnames||control (liberal)@|experimental(conservative)
-2021-04-20 11:53:21.187359||meta||block_id start||0
-2021-04-20 11:53:21.187374||meta||assignment||0@|1
-2021-04-20 11:53:25.206116||event||progress-marker||training-start||1||1
-2021-04-20 11:53:25.207013||event||progress-marker||training-start||0||0
-2021-04-20 11:54:33.029654||experiment||visit website||http://southernminn.com||1||1
-2021-04-20 11:54:35.940472||control||visit website||http://breitbart.com||0||0
-2021-04-20 11:54:40.142820||experiment||visit website||http://npr.org||1||1
-2021-04-20 11:54:47.771680||control||visit website||http://rightwingnews.com||0||0
-2021-04-20 11:54:49.068254||experiment||visit website||http://bbc.com||1||1
-2021-04-20 11:54:57.200059||experiment||visit website||http://joerogan.com||1||1
-2021-04-20 11:54:59.402165||control||visit website||http://reddit.com/r/Conservative||0||0
-2021-04-20 11:55:05.485372||experiment||visit website||http://fivethirtyeight.com||1||1
-2021-04-20 11:55:10.228840||control||visit website||http://foxnews.com||0||0
-2021-04-20 11:55:17.494544||experiment||visit website||http://reddit.com/r/politics||1||1
-2021-04-20 11:55:20.456980||control||visit website||http://infowars.com||0||0
-2021-04-20 11:55:27.014902||experiment||visit website||http://wsj.com||1||1
-2021-04-20 11:55:30.567489||control||visit website||http://reddit.com/r/guns||0||0
-2021-04-20 11:55:37.558813||experiment||visit website||http://politico.com||1||1
-2021-04-20 11:55:49.137791||experiment||visit website||http://abc.com||1||1
-2021-04-20 11:55:56.575925||control||visit website||http://nypost.com||0||0
-2021-04-20 11:56:00.031568||experiment||visit website||http://nbc.com||1||1
-2021-04-20 11:56:10.025869||control||visit website||http://washingtontimes.com||0||0
-2021-04-20 11:56:11.106976||experiment||visit website||http://time.com||1||1
-2021-04-20 11:56:19.244604||control||visit website||http://theamericanconservative.com||0||0
-2021-04-20 11:56:20.230165||experiment||visit website||http://politifact.com||1||1
-2021-04-20 11:56:29.647414||control||visit website||http://williams-sonoma.com||0||0
-2021-04-20 11:56:33.846650||experiment||visit website||http://nfl.com||1||1
-2021-04-20 11:56:38.758433||control||visit website||http://llbean.com||0||0
-2021-04-20 11:56:45.231872||experiment||visit website||http://crateandbarrel.com||1||1
-2021-04-20 11:56:48.237769||control||visit website||http://northerntool.com||0||0
-2021-04-20 11:56:56.459427||experiment||visit website||http://finance.yahoo.com||1||1
-2021-04-20 11:56:58.706767||control||visit website||http://potterybarn.com||0||0
-2021-04-20 11:57:00.835396||error||website timeout||http://||0||0
-2021-04-20 11:57:06.195776||event||progress-marker||training-end||0||0
-2021-04-20 11:57:14.924505||experiment||visit website||http://gmail.com||1||1
-2021-04-20 11:57:16.660527||error||website timeout||http://||1||1
-2021-04-20 11:57:21.550022||event||progress-marker||training-end||1||1
-2021-04-20 11:57:26.200834||event||progress-marker||measurement-start||0||0
-2021-04-20 11:57:26.552767||event||progress-marker||measurement-start||1||1
-2021-04-20 11:57:34.263326||measurement||loadtime||0:00:02.709412||1||1
-2021-04-20 11:57:34.690313||measurement||loadtime||0:00:03.481324||0||0
-2021-04-20 11:57:40.595085||measurement||loadtime||0:00:00.903413||0||0
-2021-04-20 11:57:40.595909||event||progress-marker||measurement-end||0||0
-2021-04-20 11:57:40.703599||measurement||loadtime||0:00:01.438739||1||1
-2021-04-20 11:57:40.704819||event||progress-marker||measurement-end||1||1
-2021-04-20 11:57:42.394179||meta||block_id end||0
+2021-04-24 14:04:03.048817||meta||agents||2
+2021-04-24 14:04:03.048836||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-04-24 14:04:03.049078||meta||block_id start||0
+2021-04-24 14:04:03.049087||meta||assignment||1@|0
+2021-04-24 14:04:10.284729||event||progress-marker||training-start||1||0
+2021-04-24 14:04:10.285599||event||progress-marker||training-start||0||1
+2021-04-24 14:04:23.004214||control||visit website||http://huffpost.com||1||0
+2021-04-24 14:04:27.251952||experiment||visit website||http://breitbart.com||0||1
+2021-04-24 14:04:33.784507||control||visit website||http://cnn.com||1||0
+2021-04-24 14:04:41.006087||experiment||visit website||http://rightwingnews.com||0||1
+2021-04-24 14:04:47.437568||control||visit website||http://msnbc.com||1||0
+2021-04-24 14:04:56.252943||experiment||visit website||http://reddit.com/r/Conservative||0||1
+2021-04-24 14:05:01.247457||control||visit website||http://nyt.com||1||0
+2021-04-24 14:05:11.641513||experiment||visit website||http://foxnews.com||0||1
+2021-04-24 14:05:17.142446||control||visit website||http://slate.com||1||0
+2021-04-24 14:05:23.017665||experiment||visit website||http://infowars.com||0||1
+2021-04-24 14:05:29.703417||control||visit website||http://reddit.com/r/neoliberal||1||0
+2021-04-24 14:05:36.899866||experiment||visit website||http://reddit.com/r/guns||0||1
+2021-04-24 14:05:46.336705||control||visit website||http://rollingstone.com||1||0
+2021-04-24 14:06:06.596122||error||website timeout||http://nypost.com||0||1
+2021-04-24 14:06:06.596115||error||website timeout||http://thedailybeast.com||1||0

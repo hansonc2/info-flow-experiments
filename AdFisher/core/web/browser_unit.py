@@ -151,6 +151,33 @@ class BrowserUnit:
                 else:
                     clear = False
 
+
+    def scroll_n_log(self, out_path, site):
+            # log html source
+            html = self.driver.page_source
+            f = open(out_path + '/' + site.replace('/', '_') + '.html', 'w')
+            f.write(html)
+            f.close()
+
+            # scroll through page, screenshot
+            page_height = self.driver.execute_script("return document.body.scrollHeight")
+            itr = 0
+            for y in range(0, page_height, page_height // 4):
+                self.driver.execute_script("window.scrollTo(0," + str(y) + ")")
+                filename =  site + str(itr) +'.png'
+                success = self.driver.save_screenshot(out_path + '/' + filename)
+                if success:
+                    print("SAVED SCREENSHOT>>>" + filename)
+
+                itr += 1
+
+
+            # save footer of page
+            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            self.driver.save_screenshot(out_path + '/' + site + str(itr) + '.png')
+
+
+
     def visit_sites(self, site_file, out_path,treatment='control', delay=5):
         """Visits all pages in site_file"""
         fo = open(site_file, "r")
@@ -176,14 +203,8 @@ class BrowserUnit:
             # this is really ugly
             site = site[:-4]
             site = site[7:]
-            filename = site + '.png'
-
-            print("SAVED SCREENSHOT>>>" + filename)
-            success = self.driver.save_screenshot(out_path + '/' + filename)
-            html = self.driver.page_source
-            f = open(out_path + '/' + site.replace('/', '_') + '.html', 'w')
-            f.write(html)
-            f.close()
+            # scroll and extract screenshots
+            self.scroll_n_log(out_path, site)
 
             # simulate browsing activity
             # self.simulate_browse(treatment, out_path)
