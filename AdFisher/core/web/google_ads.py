@@ -154,7 +154,7 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
 
         print('<<<<<<<Select the ad settings relevant to the account you created>>>>>>>', '\n')
 
-        time.sleep(5)
+        time.sleep(60)
 
 
 

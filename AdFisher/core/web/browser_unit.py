@@ -185,6 +185,10 @@ class BrowserUnit:
         print('@' * 60)
         print("Grab a coffee, Mr.Roboto🤖 will visit sites for you :)")
         print('@' * 60, '\n' * 2)
+
+        # maximize window
+        self.driver.maximize_window()
+
         for line in fo:
             chunks = re.split("\|\|", line)
             site = "http://"+chunks[0].strip()
