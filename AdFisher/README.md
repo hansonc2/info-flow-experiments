@@ -3,6 +3,8 @@ AdFisher
 
 AdFisher is a tool for running Automated Experiments on Personalized Ad Settings. 
 
+*Forked from [https://github.com/tadatitam/info-flow-experiments](https://github.com/tadatitam/info-flow-experiments), Adapted for research purposes by Yasmeen Awad, Jeffrey Boitnott, Cole Hanson, Aishee Mukherji, and Eric Odoom*
+
 Requirements
 -----------
 AdFisher runs only on UNIX environments. It uses some standard packages listed here. 
