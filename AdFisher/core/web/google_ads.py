@@ -18,10 +18,11 @@ import os
 import pickle
 import webbrowser
 
-from twilio.rest import Client
-# strip html
+from html.parser import HTMLParser  # strip html
 
-from html.parser import HTMLParser
+print(os.getcwd())
+sys.path.append('../core/driver')
+from process_pool import ProcessPool
 
 class MLStripper(HTMLParser):
     def __init__(self):
@@ -143,18 +144,28 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
         sys.stdout.flush()
         driver.set_page_load_timeout(200)
 
-        # log into Google via StackOverflow
+        print("-" * 50)
+        print('THREAD ' + str(self.unit_id))
+        print('🔧 Please login to an existing account manually 🔧')
+        print("-" * 50, '\n')
+
+        # log into Google
         driver.get("https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp")
 
-        print("$" * 50)
-        print('PLEASE CREATE A GOOGLE ACCOUNT MANUALLY')
-        print("$" * 50, '\n')
+        # pool = ProcessPool()
 
-        # open ad preferences for account
+        while not (self.driver.current_url.startswith("https://myaccount.google.com/")):
+            pass
 
-        print('<<<<<<<Select the ad settings relevant to the account you created>>>>>>>', '\n')
+        # flag cur process as finished with acct init
+        # pool.acc_finish()
 
-        time.sleep(60)
+        # wait for other threads to finish acct init
+        # while pool.get_finished_count < pool.size:
+            # pass
+
+                # open ad preferences for account
+        print('<<<<<<<<<<<<<<<<<< Signed in on thread' + str(self.unit_id) + '! >>>>>>>>>>>>>>>>>>>', '\n')
 
 
 

@@ -5,6 +5,8 @@ import numpy as np
 import random
 import unittest
 import signal                   # for timing out external calls
+sys.path.append('..')
+from core.driver.process_pool import ProcessPool
 
 
 def treatments_to_string(treatment_names):
@@ -69,6 +71,10 @@ def run_experiment(exper_body,
                          args = (exper_body,
                              block_id+1, agent_id, table[agent_id], timeout,
                              log_file, treatment_names,)))
+
+        # make global process pool
+        pp = ProcessPool(procs)
+
         list(map(lambda x: x.start(), procs))
         list(map(lambda x: x.join(timeout+5), procs))
         for proc in procs:

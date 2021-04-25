@@ -5,7 +5,6 @@ from selenium import webdriver              # for running the driver on websites
 from datetime import datetime               # for tagging log with datetime
 from random import choice
 
-# from xvfbwrapper import Xvfb                # for creating artificial display to run experiments
 from selenium.webdriver.common.proxy import *       # for proxy settings
 
 class BrowserUnit:
@@ -16,11 +15,6 @@ class BrowserUnit:
             from xvfbwrapper import Xvfb
             self.vdisplay = Xvfb(width=1280, height=720)
             self.vdisplay.start()
-#           if(not self.vdisplay.start()):
-#               fo = open(log_file, "a")
-#               fo.write(str(datetime.now())+"||"+'error'+"||"+'Xvfb failure'+"||"+'failed to start'+"||"+str(unit_id)+"||"+str(treatment_id) + '\n')
-#               fo.close()
-#               sys.exit(0)
         if(proxy != None):
             sproxy = Proxy({
                 'proxyType': ProxyType.MANUAL,
@@ -55,7 +49,6 @@ class BrowserUnit:
             # set environment and add options to driver
             os.environ["webdriver.chrome.driver"] = chromedriver
             chrome_option = webdriver.ChromeOptions()
-            #chrome_option.add_argument("user-data-dir=/Users/colehanson/Library/Application Support/Google/Chrome/")
             chrome_option.add_experimental_option("excludeSwitches", ["enable-automation"])
             chrome_option.add_experimental_option('useAutomationExtension', False)
             chrome_option.add_argument('--disable-blink-features=AutomationControlled')
@@ -189,6 +182,14 @@ class BrowserUnit:
         # maximize window
         self.driver.maximize_window()
 
+
+        # log email of account
+        self.driver.get('https://mail.google.com/mail/u/0/#inbox')
+        email_elem = self.driver.find_element_by_xpath('/html/body/div[7]/div[3]/div/div[1]/div[3]/header/div[2]/div[3]/div[1]/div[2]/div/a/img')
+        email_elem.click()
+        self.driver.save_screenshot(out_path + '/EMAIL_INFO.png')
+        print('LOGGGED EMAIL>>>>>>>>>>')
+
         for line in fo:
             chunks = re.split("\|\|", line)
             site = "http://"+chunks[0].strip()
@@ -213,11 +214,24 @@ class BrowserUnit:
             # simulate browsing activity
             # self.simulate_browse(treatment, out_path)
 
-        # visit one last site with a lot of ads
-        self.driver.get('https://rpgbot.net/')
-        self.driver.save_screenshot(out_path + '/' + 'rpgads.png')
+        # visit last sites with a lot of ads
+
+        # rpgbot
+        for i in range(4):
+            self.driver.get('https://rpgbot.net/')
+            self.driver.save_screenshot(out_path + '/' + 'rpgads' + str(i) + '.png')
+            html = self.driver.page_source
+            f = open(out_path + '/' + 'rpgads' + str(i) + '.html', 'w')
+            f.write(html)
+            f.close()
+            time.sleep(25)
+
+
+        # healthline
+        self.driver.get('https://www.healthline.com/nutrition/stress-relieving-foods')
+        self.driver.save_screenshot(out_path + '/' + 'healthline.png')
         html = self.driver.page_source
-        f = open(out_path + '/' + 'rpgads' + '.html', 'w')
+        f = open(out_path + '/' + 'healthline' + '.html', 'w')
         f.write(html)
         f.close()
 
