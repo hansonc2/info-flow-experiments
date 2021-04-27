@@ -8265,3 +8265,635 @@ http://requirejs.org/docs/errors.html#scripterror
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619535975319	geckodriver	INFO	Listening on 127.0.0.1:60526
+1619535975319	geckodriver	INFO	Listening on 127.0.0.1:60527
+1619535978343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileCFxtGu"
+1619535978367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilenpKxsN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619535981834	Marionette	INFO	Listening on port 61007
+1619535981837	Marionette	INFO	Listening on port 60962
+1619535981919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619535981926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619536031585	Marionette	INFO	Stopped listening on port 61007
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619536035807	Marionette	INFO	Stopped listening on port 60962
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619536201711	geckodriver	INFO	Listening on 127.0.0.1:56700
+1619536201711	geckodriver	INFO	Listening on 127.0.0.1:56699
+1619536205729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofile46VFbH"
+1619536205729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilePcCbTh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619536207918	Marionette	INFO	Listening on port 57220
+1619536207953	Marionette	INFO	Listening on port 57221
+1619536208020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619536208046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619536293267	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536296427	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: https://rightwingnews.com/, line 32: ReferenceError: stLight is not defined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: https://cdn.doubleverify.com/dvbs_src_internal84.js, line 261: TypeError: globalScope.onResponse is not a function
+1619536361157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.wsj.com/, line 368: TypeError: t is undefined
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript error: https://player.simplecast.com/static/js/app.1306c323bffa50bcd559.js, line 47: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: No service url found
+JavaScript error: https://abc.com/, line 9: InternalError: too much recursion
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1619536401744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.dcabce3ea258e134d27f.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.branch.io/branch-latest.min.js, line 42: TypeError: a[b] is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619536413079	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: https://www.politifact.com/, line 2758: TypeError: window.cmpConfig is undefined
+JavaScript error: https://tag.durationmedia.net/sites/10719/dm.js, line 1: SecurityError: Permission denied to access property "getComputedStyle" on cross-origin object
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+1619536443778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: https://d3lcz8vpax4lo2.cloudfront.net/embed-code/00356970-744c-4a09-b502-fb0d3e3cc394.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://www.theamericanconservative.com/, line 98: TypeError: document.getElementById(...) is null
+JavaScript error: https://get.s-onetag.com/38b948a8-053d-403c-90a5-c56af5963d70/tag.min.js, line 19: SecurityError: Permission denied to access property "__connect" on cross-origin object
+1619536485468	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619536490769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 19951, MediaDecoderStateMachine #1] WARNING: Decoder=1101e2000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3474
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 31: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 1261: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 99: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 104: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 78: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 529: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1619536500755	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Unable to read VR Path Registry from /Users/colehanson/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+1619536529201	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536529206	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536556736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536557483	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536583928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536585128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+1619536611805	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536612183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536640416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619536658281	Marionette	INFO	Stopped listening on port 57221
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619536662609	Marionette	INFO	Stopped listening on port 57220
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619537010972	geckodriver	INFO	Listening on 127.0.0.1:50252
+1619537010972	geckodriver	INFO	Listening on 127.0.0.1:50251
+1619537011986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilegur7MS"
+1619537011986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileU2WMuP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619537014107	Marionette	INFO	Listening on port 50270
+1619537014164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619537014303	Marionette	INFO	Listening on port 50269
+1619537014360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619537115010	Marionette	INFO	Stopped listening on port 50270
+JavaScript error: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountSettingsUi.en.YQxwLzGoJVg.2019.O/am=KORb483CL_z_KseUcBt8AAAAAADgAxrA8HYLEA/d=1/excm=_b,_tp,googleaccounthomeview/ed=1/dg=0/wt=2/rs=AOaEmlFAe13EHptfuuYQgWeOvn3uUpPlSQ/m=_b,_tp, line 459: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.HQhZbjCF72o.es5.O/am=WABA/d=1/excm=_b,_tp,appwidgetauthview/ed=1/dg=0/wt=2/rs=AM-SdHtEmfkFOyUat8NMdXzGGJP8_zTQug/m=_b,_tp, line 434: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619537155991	Marionette	INFO	Stopped listening on port 50269
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.HQhZbjCF72o.es5.O/am=WABA/d=1/excm=_b,_tp,appwidgetauthview/ed=1/dg=0/wt=2/rs=AM-SdHtEmfkFOyUat8NMdXzGGJP8_zTQug/m=_b,_tp, line 434: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountSettingsUi.en.YQxwLzGoJVg.2019.O/am=KORb483CL_z_KseU8Bt8AAAAAADgAxrA8DYLEA/d=1/excm=_b,_tp,googleaccounthomeview/ed=1/dg=0/wt=2/rs=AOaEmlFmWoM8dEdjkXcrNZmSng6tJjNqAg/m=_b,_tp, line 459: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619537180034	geckodriver	INFO	Listening on 127.0.0.1:55444
+1619537180034	geckodriver	INFO	Listening on 127.0.0.1:55443
+1619537180048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileh0ukDQ"
+1619537180048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileHnbhB0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619537182346	Marionette	INFO	Listening on port 55462
+1619537182377	Marionette	INFO	Listening on port 55461
+1619537182443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619537182444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://rightwingnews.com/, line 32: ReferenceError: stLight is not defined
+JavaScript error: https://cdn.revcontent.com/build/js/rev2.min.js?v=8a3a2a6978afdbc7f3ab19beaf8d5c256995dd86&del=https://trends.revcontent.com/&lg=https://cdn.revcontent.com/assets/img/rc-logo.png&ci=https://cdn.revcontent.com/assets/img/icon-close.png&ab=https://trends.revcontent.com/rc-about.php&ldr=https://cdn.revcontent.com/assets/img/rc-spinner-md.gif&ht=https://trends.revcontent.com/rc-interests.php&env=p0&ca=1, line 7: SecurityError: Permission denied to access property "passingObj" on cross-origin object
+[Child 29734, MediaDecoderStateMachine #1] WARNING: Decoder=101b3e800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3474
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.dcabce3ea258e134d27f.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619537269275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://nypost.com/, line 5: SyntaxError: missing ) after argument list
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.d959426950fb34b4f99a.js, line 1: ChunkLoadError: Loading chunk EconHelperActions~reddit-components-Econ-Prediction failed.
+(error: https://www.redditstatic.com/desktop2x/EconHelperActions~reddit-components-Econ-Prediction.2bb2dfdf0e1dcd20aa56.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+1619537297476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.dcabce3ea258e134d27f.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.dcabce3ea258e134d27f.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619537324158	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619537330379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.wsj.com/, line 374: TypeError: t is undefined
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript error: https://player.simplecast.com/static/js/app.1306c323bffa50bcd559.js, line 47: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://player.aniview.com/script/6.1/AVmanager.js?v=1.0&type=s&pid=58a5addb28a0612d3529bc5e, line 3: SecurityError: Permission denied to access property "setTimeout" on cross-origin object
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: No service url found
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 20557: unreachable code after return statement
+1619537354611	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://abc.com/, line 9: InternalError: too much recursion
+[GFX1-]: Managed to allocate after flush.
+1619537368043	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js?version=2, line 14807: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: https://www.theamericanconservative.com/, line 98: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.branch.io/branch-latest.min.js, line 42: TypeError: a[b] is null
+JavaScript error: https://get.s-onetag.com/38b948a8-053d-403c-90a5-c56af5963d70/tag.min.js, line 19: SecurityError: Permission denied to access property "__connect" on cross-origin object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: https://www.williams-sonoma.com/wsimgs/rk/images/s/202110/0015/js/dojo/wsgc/myStoreHeaderWidget.js, line 202: TypeError: c.myStore is undefined
+JavaScript error: https://www.politifact.com/, line 2756: TypeError: window.cmpConfig is undefined
+1619537396179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1619537399083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1619537399507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1619537401869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 31: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 1261: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1619537404771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 99: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 104: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 78: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.northerntool.com/wcsstore/dojo15/dojo/dojo.js, line 529: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from /Users/colehanson/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1619537432308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537432990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537460571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537460648	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Managed to allocate after flush.
+1619537487828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537487987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+1619537515414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537515762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537543157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537560920	Marionette	INFO	Stopped listening on port 55462
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: https://static.files.bbci.co.uk/orbit/f09bef5fa9cbf2fab9e545eda5d10b3c/js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619537563159	Marionette	INFO	Stopped listening on port 55461
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: https://static.files.bbci.co.uk/orbit/f09bef5fa9cbf2fab9e545eda5d10b3c/js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619537757584	geckodriver	INFO	Listening on 127.0.0.1:52265
+1619537757584	geckodriver	INFO	Listening on 127.0.0.1:52266
+1619537761601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofilefF9ik3"
+1619537761601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jp/m3v1py_10cd_7v3tw2g7d9_c0000gn/T/rust_mozprofileeZJChS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619537763872	Marionette	INFO	Listening on port 52803
+1619537763889	Marionette	INFO	Listening on port 52804
+1619537764611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619537764611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619537938187	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619537950269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://www.msnbc.com/, line 22: unreachable code after return statement
+JavaScript warning: https://www.msnbc.com/ line 2 > injectedScript, line 22: unreachable code after return statement
+JavaScript error: https://cdn.taboola.com/libtrc/impl.20210427-6-RELEASE.js, line 19: Error: Placement 'Homepage Text Link - Bento' is not unique in loadRBox()!
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1619537978587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://www.msnbc.com/, line 22: unreachable code after return statement
+JavaScript warning: https://www.msnbc.com/ line 2 > injectedScript, line 22: unreachable code after return statement
+JavaScript error: https://cdn.taboola.com/libtrc/impl.20210427-6-RELEASE.js, line 19: Error: Placement 'Homepage Text Link - Bento' is not unique in loadRBox()!
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 7747: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 9799: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 9813: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 11069: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 13121: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 13135: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 14391: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 16443: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999, line 16457: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3d2fb0bd-52fc-4b75-aaf5-2d436c172540-web.js, line 1: Error: TypeError: Network request timed out
+1619538024641	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstuYOglPB3T--6ncX9LNMdezEO5E3yGE5s5kuGWuvEASkx0URdP7Cqh_9N8j5hdEowabyuxC-c-U9mw1hhyG4pEyP65kIa0xUvRJNZ_izdSCzf5Cf0noPk2037dEVLlJdc_eYz8VbjsISrppi--9K3BD5dYF86bAymFdzuJgbm9SfDePU_223niwTrZYoyjIUJULPv3QSeLT0NEkKHkSBbbsKbEQ1O42lIMO-a1ynsSH66oie1T3e0eH7clNW9AX5GaEHFR8c_rED9HvJhX727hF4JE9z3U78pidfQoek-8uqpQJbIGY21rln1bJBhZT3QuBQA%2526sai%253DAMfl-YTJJt43cVOBOVpAVMdOWP7LjOryQGRe5cm9r7tSq06FmqlKKu2fu6Ni8gVfJBsl7DoaB89zTdbCt9Q9olO0yr2mmgoABwA5CPBWw82HInwJRnTiXeQzu1BTb58fZHNE%2526sig%253DCg0ArKJSzMafKOaHQNPlEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538015999 line 18386 > eval, line 13: TypeError: $jp.mainDocument.querySelector(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript error: https://assets.thedailybeast.com/static/js/ptbarnum.d297a45c4e06a77ce94f.js, line 1: TypeError: this.slot is null
+JavaScript error: https://assets.thedailybeast.com/static/js/ptbarnum.d297a45c4e06a77ce94f.js, line 1: TypeError: this.slot is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://d3lcz8vpax4lo2.cloudfront.net/ads-code/b8abd5c0-0a5e-47e8-8139-f65d9e385221.js, line 117: ReferenceError: embedLoaded is not defined
+1619538058583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.lightboxcdn.com/vendor/6f897c4d-6d94-4082-a5eb-d8d7748d7012/user.js?cb=637540085715800546, line 209: unreachable code after return statement
+JavaScript warning: https://www.lightboxcdn.com/vendor/6f897c4d-6d94-4082-a5eb-d8d7748d7012/user.js?cb=637540085715800546, line 209: unreachable code after return statement
+1619538063520	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://global.proper.io/payloads/latest.js, line 1: TypeError: e is undefined
+JavaScript error: https://global.proper.io/payloads/latest.js, line 1: TypeError: e is undefined
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 7747: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 9799: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 9813: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 11069: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 13121: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 13135: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 14391: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 16443: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814, line 16457: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3d2fb0bd-52fc-4b75-aaf5-2d436c172540-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://ads.jetpackdigital.com/lineitems/51200/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsu5e1GmxNG1l2J8F2HQH6D6JuFc86igBnnHQxiEqhPak8tH2cq9QVG5INtpFnBJFZ2uxEw33IXoxWBsyIBnhojc-OLIo882gvqQwyBgTwVT4QdBqX2DBvflJkMcptm7sZHLyFOu0PS4_L914Sc8ed869UJWQAQS7gw5h9k3Vf_gLpAbK2kLf0BnC-V9V-BcIVOl4dR42VIpQLGCHcEVIqZrj55FRAc3Bj1kHWpyTXUu72MLoVDGOwDGgKUoOAaA5VFtR6kQkH82g31ZxFWfHZMn8TUAAuv4DEMazYb8hOfNlInCnzXhwLLHsCKX39HLko8T8kY%2526sai%253DAMfl-YRYrznMHSEx74-VE3BAAODc8rEmc3XzAT1OXvnZwi_e_bfd9SDF1nJZP7P9oYE2xLccSILnMqCQfKcMBnRFs7_Gt6kB0tzJ9_nMQdZX3yZutXAgxnnKNElPhl9wd6Y2%2526sig%253DCg0ArKJSzLkaQLIiwA8qEAE%2526urlfix%253D1%2526adurl%253Dhttps://ad.doubleclick.net/ddm/trackclk/N458602.5218WENNERMEDIAROLLINGST/B25597980.300644749;dc_trk_aid=493993215;dc_trk_cid=149300802;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=&_=1619538059814 line 18386 > eval, line 13: TypeError: $jp.mainDocument.querySelector(...) is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: https://assets.thedailybeast.com/static/js/ptbarnum.d297a45c4e06a77ce94f.js, line 1: TypeError: this.slot is null
+JavaScript error: https://assets.thedailybeast.com/static/js/ptbarnum.d297a45c4e06a77ce94f.js, line 1: TypeError: this.slot is null
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://d3lcz8vpax4lo2.cloudfront.net/ads-code/b8abd5c0-0a5e-47e8-8139-f65d9e385221.js, line 117: ReferenceError: embedLoaded is not defined
+1619538100010	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.lightboxcdn.com/vendor/6f897c4d-6d94-4082-a5eb-d8d7748d7012/user.js?cb=637540085715800546, line 209: unreachable code after return statement
+JavaScript warning: https://www.lightboxcdn.com/vendor/6f897c4d-6d94-4082-a5eb-d8d7748d7012/user.js?cb=637540085715800546, line 209: unreachable code after return statement
+1619538106200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538106202	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://global.proper.io/payloads/latest.js, line 1: TypeError: e is undefined
+JavaScript error: https://global.proper.io/payloads/latest.js, line 1: TypeError: e is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.bloomingdales.com/akam-sw.js for scope https://www.bloomingdales.com/ encountered an error during installation.
+JavaScript error: https://www.bloomingdales.com/, line 6730: ChunkLoadError: Loading chunk vendors~Footer failed.
+(error: https://assets.bloomingdales.com/page/home-page/static/js/home-page.vendors~Footer.8a30ecf193e802dfaf99.js)
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 20557: unreachable code after return statement
+JavaScript warning: https://cdn.tinypass.com/api/tinypass.min.js, line 14807: unreachable code after return statement
+JavaScript error: https://player.simplecast.com/static/js/app.1306c323bffa50bcd559.js, line 47: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: No service url found
+JavaScript error: https://abc.com/, line 9: InternalError: too much recursion
+1619538162101	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://cdn.branch.io/branch-latest.min.js, line 42: TypeError: a[b] is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619538174582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.politifact.com/, line 2756: TypeError: window.cmpConfig is undefined
+1619538193160	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1619538194432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://cdn.jsdelivr.net/npm/hls.js@0.12.4/dist/hls.light.min.js, line 1: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1619538204510	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Managed to allocate after flush.
+1619538231517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538241404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1619538241405	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1619538247742	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538258369	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1619538275747	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538287092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538302953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538330295	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538358066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619538372574	Marionette	INFO	Stopped listening on port 52803
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: https://static.files.bbci.co.uk/orbit/f09bef5fa9cbf2fab9e545eda5d10b3c/js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619538377377	Marionette	INFO	Stopped listening on port 52804
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: https://static.files.bbci.co.uk/orbit/f09bef5fa9cbf2fab9e545eda5d10b3c/js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
