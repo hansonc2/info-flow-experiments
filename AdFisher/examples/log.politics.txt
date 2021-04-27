@@ -1,52 +1,52 @@
-2021-04-27 10:35:57.556966||meta||agents||2
-2021-04-27 10:35:57.556983||meta||treatnames||control (liberal)@|experimental(conservative)
-2021-04-27 10:35:57.557219||meta||block_id start||0
-2021-04-27 10:35:57.557227||meta||assignment||1@|0
-2021-04-27 10:36:04.629014||event||progress-marker||training-start||1||0
-2021-04-27 10:36:04.629005||event||progress-marker||training-start||0||1
-2021-04-27 10:39:03.472871||control||visit website||http://huffpost.com||1||0
-2021-04-27 10:39:17.814081||control||visit website||http://cnn.com||1||0
-2021-04-27 10:39:30.723941||control||visit website||http://msnbc.com||1||0
-2021-04-27 10:39:44.171869||control||visit website||http://nyt.com||1||0
-2021-04-27 10:39:57.822860||control||visit website||http://slate.com||1||0
-2021-04-27 10:40:11.461628||control||visit website||http://reddit.com/r/neoliberal||1||0
-2021-04-27 10:40:15.618244||experiment||visit website||http://msnbc.com||0||1
-2021-04-27 10:40:28.674754||experiment||visit website||http://nyt.com||0||1
-2021-04-27 10:40:30.588162||control||visit website||http://rollingstone.com||1||0
-2021-04-27 10:40:40.798820||experiment||visit website||http://slate.com||0||1
-2021-04-27 10:40:46.662525||control||visit website||http://thedailybeast.com||1||0
-2021-04-27 10:40:55.107788||experiment||visit website||http://reddit.com/r/neoliberal||0||1
-2021-04-27 10:40:58.715443||control||visit website||http://alternet.org||1||0
-2021-04-27 10:41:11.674952||control||visit website||http://forever21.com||1||0
-2021-04-27 10:41:14.262413||experiment||visit website||http://rollingstone.com||0||1
-2021-04-27 10:41:23.857853||control||visit website||http://urbanoutfitters.com||1||0
-2021-04-27 10:41:29.936795||experiment||visit website||http://thedailybeast.com||0||1
-2021-04-27 10:41:36.211545||control||visit website||http://gap.com||1||0
-2021-04-27 10:41:41.016362||experiment||visit website||http://alternet.org||0||1
-2021-04-27 10:41:48.683626||control||visit website||http://nike.com||1||0
-2021-04-27 10:41:53.316526||experiment||visit website||http://forever21.com||0||1
-2021-04-27 10:42:02.655448||control||visit website||http://bloomingdales.com||1||0
-2021-04-27 10:42:07.158140||experiment||visit website||http://urbanoutfitters.com||0||1
-2021-04-27 10:42:13.938578||control||visit website||http://sephora.com||1||0
-2021-04-27 10:42:21.371579||experiment||visit website||http://politico.com||0||1
-2021-04-27 10:42:24.699847||control||visit website||http://themarkup.org||1||0
-2021-04-27 10:42:34.834295||experiment||visit website||http://abc.com||0||1
-2021-04-27 10:42:37.586788||control||visit website||http://dndbeyond.com||1||0
-2021-04-27 10:42:45.773698||error||website timeout||http://||1||0
-2021-04-27 10:42:49.149216||experiment||visit website||http://nbc.com||0||1
-2021-04-27 10:43:02.668000||experiment||visit website||http://time.com||0||1
-2021-04-27 10:43:15.789530||experiment||visit website||http://politifact.com||0||1
-2021-04-27 10:43:30.240983||experiment||visit website||http://nfl.com||0||1
-2021-04-27 10:43:45.965448||experiment||visit website||http://crateandbarrel.com||0||1
-2021-04-27 10:44:02.267661||experiment||visit website||http://finance.yahoo.com||0||1
-2021-04-27 10:44:51.411202||event||progress-marker||training-end||1||0
-2021-04-27 10:46:01.285209||event||progress-marker||training-end||0||1
-2021-04-27 10:46:01.422876||event||progress-marker||measurement-start||1||0
-2021-04-27 10:46:06.286928||event||progress-marker||measurement-start||0||1
-2021-04-27 10:46:07.345739||measurement||loadtime||0:00:00.921344||1||0
-2021-04-27 10:46:12.160960||measurement||loadtime||0:00:00.872370||0||1
-2021-04-27 10:46:12.571621||measurement||loadtime||0:00:00.224939||1||0
-2021-04-27 10:46:12.571944||event||progress-marker||measurement-end||1||0
-2021-04-27 10:46:17.373898||measurement||loadtime||0:00:00.212152||0||1
-2021-04-27 10:46:17.374280||event||progress-marker||measurement-end||0||1
-2021-04-27 10:46:18.522784||meta||block_id end||0
+2021-04-27 12:26:58.237806||meta||agents||2
+2021-04-27 12:26:58.237823||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-04-27 12:26:58.238104||meta||block_id start||0
+2021-04-27 12:26:58.238117||meta||assignment||1@|0
+2021-04-27 12:27:02.483149||event||progress-marker||training-start||1||0
+2021-04-27 12:27:02.494689||event||progress-marker||training-start||0||1
+2021-04-27 12:28:14.974332||experiment||visit website||http://southernminn.com||0||1
+2021-04-27 12:28:31.077379||experiment||visit website||http://npr.org||0||1
+2021-04-27 12:28:50.047434||experiment||visit website||http://bbc.com||0||1
+2021-04-27 12:28:52.604952||control||visit website||http://huffpost.com||1||0
+2021-04-27 12:29:04.000643||experiment||visit website||http://joerogan.com||0||1
+2021-04-27 12:29:10.600785||control||visit website||http://cnn.com||1||0
+2021-04-27 12:29:25.092013||experiment||visit website||http://fivethirtyeight.com||0||1
+2021-04-27 12:29:29.099148||control||visit website||http://msnbc.com||1||0
+2021-04-27 12:29:46.972752||experiment||visit website||http://reddit.com/r/politics||0||1
+2021-04-27 12:29:47.130992||control||visit website||http://nyt.com||1||0
+2021-04-27 12:30:04.331792||control||visit website||http://slate.com||1||0
+2021-04-27 12:30:06.926646||experiment||visit website||http://wsj.com||0||1
+2021-04-27 12:30:20.283590||control||visit website||http://reddit.com/r/neoliberal||1||0
+2021-04-27 12:30:26.685855||experiment||visit website||http://politico.com||0||1
+2021-04-27 12:30:43.618108||control||visit website||http://rollingstone.com||1||0
+2021-04-27 12:30:46.415054||experiment||visit website||http://abc.com||0||1
+2021-04-27 12:31:07.641433||control||visit website||http://thedailybeast.com||1||0
+2021-04-27 12:31:10.553956||experiment||visit website||http://nbc.com||0||1
+2021-04-27 12:31:19.382591||control||visit website||http://alternet.org||1||0
+2021-04-27 12:31:24.762474||experiment||visit website||http://time.com||0||1
+2021-04-27 12:31:30.604735||control||visit website||http://forever21.com||1||0
+2021-04-27 12:31:45.385604||experiment||visit website||http://politifact.com||0||1
+2021-04-27 12:31:54.082870||control||visit website||http://urbanoutfitters.com||1||0
+2021-04-27 12:32:01.254191||experiment||visit website||http://nfl.com||0||1
+2021-04-27 12:32:11.294172||control||visit website||http://gap.com||1||0
+2021-04-27 12:32:24.986105||experiment||visit website||http://crateandbarrel.com||0||1
+2021-04-27 12:32:27.335647||control||visit website||http://nike.com||1||0
+2021-04-27 12:32:36.443441||error||website timeout||http://bloomingdales.com||1||0
+2021-04-27 12:32:39.804343||experiment||visit website||http://finance.yahoo.com||0||1
+2021-04-27 12:32:53.137678||control||visit website||http://sephora.com||1||0
+2021-04-27 12:32:54.253240||experiment||visit website||http://gmail.com||0||1
+2021-04-27 12:32:57.790162||error||website timeout||http://||0||1
+2021-04-27 12:33:19.354297||control||visit website||http://themarkup.org||1||0
+2021-04-27 12:33:33.656379||control||visit website||http://dndbeyond.com||1||0
+2021-04-27 12:33:43.424855||error||website timeout||http://||1||0
+2021-04-27 12:34:39.978560||event||progress-marker||training-end||0||1
+2021-04-27 12:35:20.716453||event||progress-marker||training-end||1||0
+2021-04-27 12:35:24.986536||event||progress-marker||measurement-start||0||1
+2021-04-27 12:35:25.718398||event||progress-marker||measurement-start||1||0
+2021-04-27 12:35:33.755822||measurement||loadtime||0:00:03.766975||0||1
+2021-04-27 12:35:34.018998||measurement||loadtime||0:00:03.298997||1||0
+2021-04-27 12:35:39.376451||measurement||loadtime||0:00:00.618494||0||1
+2021-04-27 12:35:39.377212||event||progress-marker||measurement-end||0||1
+2021-04-27 12:35:39.994472||measurement||loadtime||0:00:00.973326||1||0
+2021-04-27 12:35:39.995184||event||progress-marker||measurement-end||1||0
+2021-04-27 12:35:41.682248||meta||block_id end||0
