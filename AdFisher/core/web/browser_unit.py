@@ -217,14 +217,15 @@ class BrowserUnit:
         # visit last sites with a lot of ads
 
         # rpgbot
-        for i in range(4):
+        for i in range(3):
+            time.sleep(25)
             self.driver.get('https://rpgbot.net/')
             self.driver.save_screenshot(out_path + '/' + 'rpgads' + str(i) + '.png')
             html = self.driver.page_source
             f = open(out_path + '/' + 'rpgads' + str(i) + '.html', 'w')
             f.write(html)
             f.close()
-            time.sleep(25)
+
 
 
         # healthline
