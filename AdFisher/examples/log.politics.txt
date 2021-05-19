@@ -1,52 +1,7 @@
-2021-04-27 12:26:58.237806||meta||agents||2
-2021-04-27 12:26:58.237823||meta||treatnames||control (liberal)@|experimental(conservative)
-2021-04-27 12:26:58.238104||meta||block_id start||0
-2021-04-27 12:26:58.238117||meta||assignment||1@|0
-2021-04-27 12:27:02.483149||event||progress-marker||training-start||1||0
-2021-04-27 12:27:02.494689||event||progress-marker||training-start||0||1
-2021-04-27 12:28:14.974332||experiment||visit website||http://southernminn.com||0||1
-2021-04-27 12:28:31.077379||experiment||visit website||http://npr.org||0||1
-2021-04-27 12:28:50.047434||experiment||visit website||http://bbc.com||0||1
-2021-04-27 12:28:52.604952||control||visit website||http://huffpost.com||1||0
-2021-04-27 12:29:04.000643||experiment||visit website||http://joerogan.com||0||1
-2021-04-27 12:29:10.600785||control||visit website||http://cnn.com||1||0
-2021-04-27 12:29:25.092013||experiment||visit website||http://fivethirtyeight.com||0||1
-2021-04-27 12:29:29.099148||control||visit website||http://msnbc.com||1||0
-2021-04-27 12:29:46.972752||experiment||visit website||http://reddit.com/r/politics||0||1
-2021-04-27 12:29:47.130992||control||visit website||http://nyt.com||1||0
-2021-04-27 12:30:04.331792||control||visit website||http://slate.com||1||0
-2021-04-27 12:30:06.926646||experiment||visit website||http://wsj.com||0||1
-2021-04-27 12:30:20.283590||control||visit website||http://reddit.com/r/neoliberal||1||0
-2021-04-27 12:30:26.685855||experiment||visit website||http://politico.com||0||1
-2021-04-27 12:30:43.618108||control||visit website||http://rollingstone.com||1||0
-2021-04-27 12:30:46.415054||experiment||visit website||http://abc.com||0||1
-2021-04-27 12:31:07.641433||control||visit website||http://thedailybeast.com||1||0
-2021-04-27 12:31:10.553956||experiment||visit website||http://nbc.com||0||1
-2021-04-27 12:31:19.382591||control||visit website||http://alternet.org||1||0
-2021-04-27 12:31:24.762474||experiment||visit website||http://time.com||0||1
-2021-04-27 12:31:30.604735||control||visit website||http://forever21.com||1||0
-2021-04-27 12:31:45.385604||experiment||visit website||http://politifact.com||0||1
-2021-04-27 12:31:54.082870||control||visit website||http://urbanoutfitters.com||1||0
-2021-04-27 12:32:01.254191||experiment||visit website||http://nfl.com||0||1
-2021-04-27 12:32:11.294172||control||visit website||http://gap.com||1||0
-2021-04-27 12:32:24.986105||experiment||visit website||http://crateandbarrel.com||0||1
-2021-04-27 12:32:27.335647||control||visit website||http://nike.com||1||0
-2021-04-27 12:32:36.443441||error||website timeout||http://bloomingdales.com||1||0
-2021-04-27 12:32:39.804343||experiment||visit website||http://finance.yahoo.com||0||1
-2021-04-27 12:32:53.137678||control||visit website||http://sephora.com||1||0
-2021-04-27 12:32:54.253240||experiment||visit website||http://gmail.com||0||1
-2021-04-27 12:32:57.790162||error||website timeout||http://||0||1
-2021-04-27 12:33:19.354297||control||visit website||http://themarkup.org||1||0
-2021-04-27 12:33:33.656379||control||visit website||http://dndbeyond.com||1||0
-2021-04-27 12:33:43.424855||error||website timeout||http://||1||0
-2021-04-27 12:34:39.978560||event||progress-marker||training-end||0||1
-2021-04-27 12:35:20.716453||event||progress-marker||training-end||1||0
-2021-04-27 12:35:24.986536||event||progress-marker||measurement-start||0||1
-2021-04-27 12:35:25.718398||event||progress-marker||measurement-start||1||0
-2021-04-27 12:35:33.755822||measurement||loadtime||0:00:03.766975||0||1
-2021-04-27 12:35:34.018998||measurement||loadtime||0:00:03.298997||1||0
-2021-04-27 12:35:39.376451||measurement||loadtime||0:00:00.618494||0||1
-2021-04-27 12:35:39.377212||event||progress-marker||measurement-end||0||1
-2021-04-27 12:35:39.994472||measurement||loadtime||0:00:00.973326||1||0
-2021-04-27 12:35:39.995184||event||progress-marker||measurement-end||1||0
-2021-04-27 12:35:41.682248||meta||block_id end||0
+2021-05-18 21:30:08.624722||meta||agents||2
+2021-05-18 21:30:08.624739||meta||treatnames||control (liberal)@|experimental(conservative)
+2021-05-18 21:30:08.625040||meta||block_id start||0
+2021-05-18 21:30:08.625052||meta||assignment||0@|1
+2021-05-18 21:30:11.960983||event||progress-marker||training-start||1||1
+2021-05-18 21:30:11.964012||event||progress-marker||training-start||0||0
+2021-05-18 21:31:53.323934||meta||block_id end||0

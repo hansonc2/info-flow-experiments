@@ -6,6 +6,7 @@ from datetime import datetime               # for tagging log with datetime
 from random import choice
 
 from selenium.webdriver.common.proxy import *       # for proxy settings
+from selenium.common.exceptions import TimeoutException
 
 class BrowserUnit:
 
@@ -157,6 +158,7 @@ class BrowserUnit:
             itr = 0
             for y in range(0, page_height, page_height // 4):
                 self.driver.execute_script("window.scrollTo(0," + str(y) + ")")
+                time.sleep(2)
                 filename =  site + str(itr) +'.png'
                 success = self.driver.save_screenshot(out_path + '/' + filename)
                 if success:
@@ -194,14 +196,20 @@ class BrowserUnit:
             chunks = re.split("\|\|", line)
             site = "http://"+chunks[0].strip()
             try:
-                self.driver.set_page_load_timeout(40)
+                self.driver.set_page_load_timeout(100)
                 self.driver.get(site)
-                time.sleep(delay)
+                page_state = self.driver.execute_script('return document.readyState;')
+                while page_state != 'complete':
+                    page_state = self.driver.execute_script('return document.readyState;')
+                    time.sleep(0.2)
+
+
+                time.sleep(8)
                 self.log(treatment, 'visit website', site)
-                            # pref = get_ad_pref(self.driver)
-                            # self.log("pref"+"||"+str(treatment_id)+"||"+"@".join(pref), self.unit_id)
             except:
                 self.log('error', 'website timeout', site)
+
+
 
             # save screenshot of visited site
             time.sleep(1)
@@ -211,32 +219,63 @@ class BrowserUnit:
             # scroll and extract screenshots
             self.scroll_n_log(out_path, site)
 
-            # simulate browsing activity
             # self.simulate_browse(treatment, out_path)
 
         # visit last sites with a lot of ads
 
         # rpgbot
-        for i in range(3):
-            time.sleep(25)
-            self.driver.get('https://rpgbot.net/')
-            self.driver.save_screenshot(out_path + '/' + 'rpgads' + str(i) + '.png')
-            html = self.driver.page_source
-            f = open(out_path + '/' + 'rpgads' + str(i) + '.html', 'w')
-            f.write(html)
-            f.close()
+        try:
+            self.driver.set_page_load_timeout(100)
+            for i in range(3):
+                self.driver.get('https://rpgbot.net/')
+                page_state = self.driver.execute_script('return document.readyState;')
+                while page_state != 'complete':
+                    page_state = self.driver.execute_script('return document.readyState;')
+                    time.sleep(0.2)
 
+                self.driver.save_screenshot(out_path + '/' + 'rpgads' + str(i) + '.png')
+
+        except:
+            self.log('error', 'website timeout', site)
+
+        # geeks for geeks:
+        try:
+            self.driver.set_page_load_timeout(100)
+            with open('GfG.txt', 'r') as links:
+                for l in links:
+                    self.driver.get(l)
+                    page_state = self.driver.execute_script('return document.readyState;')
+                    while page_state != 'complete':
+                        page_state = self.driver.execute_script('return document.readyState;')
+                        time.sleep(0.2)
+
+                    self.scroll_n_log(out_path, l)
+
+        except:
+            self.log('error', 'website timeout', site)
 
 
         # healthline
-        self.driver.get('https://www.healthline.com/nutrition/stress-relieving-foods')
-        self.driver.save_screenshot(out_path + '/' + 'healthline.png')
-        html = self.driver.page_source
-        f = open(out_path + '/' + 'healthline' + '.html', 'w')
-        f.write(html)
-        f.close()
 
 
+
+        try:
+            self.driver.set_page_load_timeout(100)
+            with open('healthline.txt', 'r') as links:
+                for l in links:
+                    self.driver.get(l)
+                    page_state = self.driver.execute_script('return document.readyState;')
+
+                    # wait for full page to load
+                    while page_state != 'complete':
+                        page_state = self.driver.execute_script(
+                            'return document.readyState;')
+                        time.sleep(0.2)
+
+                    self.scroll_n_log(out_path, l)
+
+        except:
+            self.log('error', 'website timeout', site)
 
     def simulate_browse(self, treatment, out_path):
         # scroll page, find link and click to simulate real activity
